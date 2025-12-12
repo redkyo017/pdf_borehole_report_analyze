@@ -1,0 +1,29 @@
+# Python
+# Byte-code files
+*.pyc
+__pycache__/
+# Virtual environment
+.venv/
+venv/
+env/
+# IDE-specific files (e.g., PyCharm)
+.idea/
+# Distribution / packaging
+dist/
+build/
+
+# Golang
+# Compiled executables
+*.exe
+*.out
+# Test output
+test/
+# IDE-specific files (e.g., GoLand, VS Code)
+.idea/
+.vscode/
+# Dependency management (Go Modules)
+go.mod
+go.sum
+# Binary artifacts
+pkg/
+bin/
