@@ -1,0 +1,4083 @@
+{
+  "filename": "Sample_Report_2.pdf",
+  "pages": 124,
+  "site_information": {
+    "project_title": "Geo-environmental & Geotechnical Assessment Ground Investigation Report for",
+    "site_address": "Anglo European School, Ingatestone, Essex, CM4 0DJ",
+    "project_reference": "Anglo Europen School,",
+    "job_number": "P6330J3185/DJH",
+    "report_date": "28 May 2025",
+    "client": "KIER GROUP",
+    "site_area": "3.96Ha (approx.)",
+    "national_grid": "199880"
+  },
+  "lab_report_summary": {
+    "lab_report_reference": "P25/00440/JOM - 25-64088",
+    "project_reference": "Anglo Europen School, Ingatestone, Essex, CM4 0DJ J3185",
+    "order_number": "P6330J3185.9",
+    "samples_received": "25/04/2025",
+    "samples_instructed": "25/04/2025",
+    "sample_tested_range": "25/04 to 02/05/2025",
+    "samples_analysed": "17 sample(s)",
+    "report_issue": "1",
+    "report_issued": "02/05/2025"
+  },
+  "sample_descriptions": [
+    {
+      "lab_reference": "496571",
+      "sample_id": "WS5",
+      "location": null,
+      "sample_type": "ES",
+      "description": "Brown slightly gravelly slightly sandy silty clay Mottled gravelly slightly clayey silty sand with rare brick",
+      "moisture_content_percent": "20",
+      "stone_content_percent": "< 0.1",
+      "passing_2mm_percent": "100"
+    },
+    {
+      "lab_reference": "496572",
+      "sample_id": "WS4",
+      "location": null,
+      "sample_type": "ES",
+      "description": "fragments Made Ground- brown cream grey slightly gravelly slightly",
+      "moisture_content_percent": "5.5",
+      "stone_content_percent": "81",
+      "passing_2mm_percent": "77"
+    },
+    {
+      "lab_reference": "496573",
+      "sample_id": "WS1",
+      "location": null,
+      "sample_type": "ES",
+      "description": "sandy silty clay",
+      "moisture_content_percent": "19",
+      "stone_content_percent": "< 0.1",
+      "passing_2mm_percent": "76"
+    },
+    {
+      "lab_reference": "496574",
+      "sample_id": "WS2",
+      "location": null,
+      "sample_type": "ES",
+      "description": "Mottled slightly gravelly slightly clayey silty sand Mottled cream grey slightly gravelly slightly clayey silty sand",
+      "moisture_content_percent": "2.5",
+      "stone_content_percent": "60",
+      "passing_2mm_percent": "65"
+    },
+    {
+      "lab_reference": "496575",
+      "sample_id": "WS1",
+      "location": null,
+      "sample_type": "ES",
+      "description": "with rare brick fragments Made Ground- mottled cream grey slightly gravelly slightly",
+      "moisture_content_percent": "3.9",
+      "stone_content_percent": "77",
+      "passing_2mm_percent": "83"
+    },
+    {
+      "lab_reference": "496576",
+      "sample_id": "WS4",
+      "location": null,
+      "sample_type": "ES",
+      "description": "clayey silty sand",
+      "moisture_content_percent": "2.4",
+      "stone_content_percent": "57",
+      "passing_2mm_percent": "85"
+    },
+    {
+      "lab_reference": "496577",
+      "sample_id": "WS3",
+      "location": null,
+      "sample_type": "ES",
+      "description": "Brown cream grey slightly gravelly slightly clayey silty sand",
+      "moisture_content_percent": null,
+      "stone_content_percent": null,
+      "passing_2mm_percent": "78"
+    },
+    {
+      "lab_reference": "496578",
+      "sample_id": "WS2",
+      "location": null,
+      "sample_type": "ES",
+      "description": "Grey slightly gravelly slightly sandy silty clay",
+      "moisture_content_percent": null,
+      "stone_content_percent": null,
+      "passing_2mm_percent": "85"
+    }
+  ],
+  "certificates": [
+    {
+      "page": 80,
+      "lab_reference": "496575",
+      "client_sample_id": null,
+      "client_sample_location": "WS1",
+      "client_sample_type": "ES",
+      "client_sample_number": null,
+      "depth_top_m": 0.5,
+      "depth_bottom_m": 0.5,
+      "date_of_sampling": "10/04/2025",
+      "time_of_sampling": null,
+      "sample_description": "Mottled cream grey slightly gravelly slightly clayey silty sand with rare brick fragments",
+      "sample_matrix": "Sand",
+      "moisture_content_percent": 3.9,
+      "stone_content_percent": 77.0,
+      "solid_analysis": [
+        {
+          "analyte": "Total Organic Carbon",
+          "unit": "%",
+          "accreditation": "MCERTS",
+          "result": {
+            "raw": "1.2",
+            "operator": null,
+            "value": 1.2
+          },
+          "limits": {
+            "inert_limit": {
+              "raw": "3.0",
+              "operator": null,
+              "value": 3.0
+            },
+            "snrhw_limit": {
+              "raw": "5.0",
+              "operator": null,
+              "value": 5.0
+            },
+            "hazardous_limit": {
+              "raw": "6.0",
+              "operator": null,
+              "value": 6.0
+            }
+          },
+          "threshold_flags": {
+            "inert_limit": false,
+            "snrhw_limit": false,
+            "hazardous_limit": false
+          }
+        },
+        {
+          "analyte": "Loss on Ignition",
+          "unit": "%",
+          "accreditation": "UKAS",
+          "result": {
+            "raw": "5.0",
+            "operator": null,
+            "value": 5.0
+          },
+          "limits": {
+            "inert_limit": null,
+            "snrhw_limit": null,
+            "hazardous_limit": {
+              "raw": "10.0",
+              "operator": null,
+              "value": 10.0
+            }
+          },
+          "threshold_flags": {
+            "inert_limit": null,
+            "snrhw_limit": null,
+            "hazardous_limit": false
+          }
+        },
+        {
+          "analyte": "BTEX",
+          "unit": "mg/kg",
+          "accreditation": "MCERTS",
+          "result": {
+            "raw": "< 0.06",
+            "operator": "<",
+            "value": 0.06
+          },
+          "limits": {
+            "inert_limit": {
+              "raw": "6.00",
+              "operator": null,
+              "value": 6.0
+            },
+            "snrhw_limit": null,
+            "hazardous_limit": null
+          },
+          "threshold_flags": {
+            "inert_limit": null,
+            "snrhw_limit": null,
+            "hazardous_limit": null
+          }
+        },
+        {
+          "analyte": "PCB\u2019s (7 Congeners)",
+          "unit": "mg/kg",
+          "accreditation": "MCERTS",
+          "result": {
+            "raw": "< 0.250",
+            "operator": "<",
+            "value": 0.25
+          },
+          "limits": {
+            "inert_limit": {
+              "raw": "1.00",
+              "operator": null,
+              "value": 1.0
+            },
+            "snrhw_limit": null,
+            "hazardous_limit": null
+          },
+          "threshold_flags": {
+            "inert_limit": null,
+            "snrhw_limit": null,
+            "hazardous_limit": null
+          }
+        },
+        {
+          "analyte": "Mineral Oil (>C10 to C40) [EH_1D_Total]",
+          "unit": "mg/kg",
+          "accreditation": "MCERTS",
+          "result": {
+            "raw": "1490",
+            "operator": null,
+            "value": 1490.0
+          },
+          "limits": {
+            "inert_limit": {
+              "raw": "500",
+              "operator": null,
+              "value": 500.0
+            },
+            "snrhw_limit": null,
+            "hazardous_limit": null
+          },
+          "threshold_flags": {
+            "inert_limit": true,
+            "snrhw_limit": null,
+            "hazardous_limit": null
+          }
+        },
+        {
+          "analyte": "PAH",
+          "unit": "mg/kg",
+          "accreditation": "u",
+          "result": {
+            "raw": "12",
+            "operator": null,
+            "value": 12.0
+          },
+          "limits": {
+            "inert_limit": {
+              "raw": "100",
+              "operator": null,
+              "value": 100.0
+            },
+            "snrhw_limit": null,
+            "hazardous_limit": null
+          },
+          "threshold_flags": {
+            "inert_limit": false,
+            "snrhw_limit": null,
+            "hazardous_limit": null
+          }
+        },
+        {
+          "analyte": "pH",
+          "unit": "units",
+          "accreditation": "MCERTS",
+          "result": {
+            "raw": "11.0",
+            "operator": null,
+            "value": 11.0
+          },
+          "limits": {
+            "inert_limit": null,
+            "snrhw_limit": {
+              "raw": "> 6",
+              "operator": ">",
+              "value": 6.0
+            },
+            "hazardous_limit": null
+          },
+          "threshold_flags": {
+            "inert_limit": null,
+            "snrhw_limit": true,
+            "hazardous_limit": null
+          }
+        }
+      ],
+      "eluate_analysis": [
+        {
+          "analyte": "Arsenic",
+          "unit": "mg/kg",
+          "accreditation": "UKAS",
+          "result": {
+            "raw": "0.03",
+            "operator": null,
+            "value": 0.03
+          },
+          "limits": {
+            "inert_limit": {
+              "raw": "0.50",
+              "operator": null,
+              "value": 0.5
+            },
+            "snrhw_limit": {
+              "raw": "2",
+              "operator": null,
+              "value": 2.0
+            },
+            "hazardous_limit": {
+              "raw": "25",
+              "operator": null,
+              "value": 25.0
+            }
+          },
+          "threshold_flags": {
+            "inert_limit": false,
+            "snrhw_limit": false,
+            "hazardous_limit": false
+          }
+        },
+        {
+          "analyte": "Barium",
+          "unit": "mg/kg",
+          "accreditation": "UKAS",
+          "result": {
+            "raw": "0.10",
+            "operator": null,
+            "value": 0.1
+          },
+          "limits": {
+            "inert_limit": {
+              "raw": "20",
+              "operator": null,
+              "value": 20.0
+            },
+            "snrhw_limit": {
+              "raw": "100",
+              "operator": null,
+              "value": 100.0
+            },
+            "hazardous_limit": {
+              "raw": "300",
+              "operator": null,
+              "value": 300.0
+            }
+          },
+          "threshold_flags": {
+            "inert_limit": false,
+            "snrhw_limit": false,
+            "hazardous_limit": false
+          }
+        },
+        {
+          "analyte": "Cadmium",
+          "unit": "mg/kg",
+          "accreditation": "UKAS",
+          "result": {
+            "raw": "< 0.0025",
+            "operator": "<",
+            "value": 0.0025
+          },
+          "limits": {
+            "inert_limit": {
+              "raw": "0.04",
+              "operator": null,
+              "value": 0.04
+            },
+            "snrhw_limit": {
+              "raw": "1",
+              "operator": null,
+              "value": 1.0
+            },
+            "hazardous_limit": {
+              "raw": "5",
+              "operator": null,
+              "value": 5.0
+            }
+          },
+          "threshold_flags": {
+            "inert_limit": null,
+            "snrhw_limit": null,
+            "hazardous_limit": null
+          }
+        },
+        {
+          "analyte": "Chromium (total)",
+          "unit": "mg/kg",
+          "accreditation": "UKAS",
+          "result": {
+            "raw": "0.03",
+            "operator": null,
+            "value": 0.03
+          },
+          "limits": {
+            "inert_limit": {
+              "raw": "0.5",
+              "operator": null,
+              "value": 0.5
+            },
+            "snrhw_limit": {
+              "raw": "10",
+              "operator": null,
+              "value": 10.0
+            },
+            "hazardous_limit": {
+              "raw": "70",
+              "operator": null,
+              "value": 70.0
+            }
+          },
+          "threshold_flags": {
+            "inert_limit": false,
+            "snrhw_limit": false,
+            "hazardous_limit": false
+          }
+        },
+        {
+          "analyte": "Copper",
+          "unit": "mg/kg",
+          "accreditation": "UKAS",
+          "result": {
+            "raw": "0.05",
+            "operator": null,
+            "value": 0.05
+          },
+          "limits": {
+            "inert_limit": {
+              "raw": "2.0",
+              "operator": null,
+              "value": 2.0
+            },
+            "snrhw_limit": {
+              "raw": "50",
+              "operator": null,
+              "value": 50.0
+            },
+            "hazardous_limit": {
+              "raw": "100",
+              "operator": null,
+              "value": 100.0
+            }
+          },
+          "threshold_flags": {
+            "inert_limit": false,
+            "snrhw_limit": false,
+            "hazardous_limit": false
+          }
+        },
+        {
+          "analyte": "Mercury",
+          "unit": "mg/kg",
+          "accreditation": "UKAS",
+          "result": {
+            "raw": "< 0.00050",
+            "operator": "<",
+            "value": 0.0005
+          },
+          "limits": {
+            "inert_limit": {
+              "raw": "0.01",
+              "operator": null,
+              "value": 0.01
+            },
+            "snrhw_limit": {
+              "raw": "0.2",
+              "operator": null,
+              "value": 0.2
+            },
+            "hazardous_limit": {
+              "raw": "2",
+              "operator": null,
+              "value": 2.0
+            }
+          },
+          "threshold_flags": {
+            "inert_limit": null,
+            "snrhw_limit": null,
+            "hazardous_limit": null
+          }
+        },
+        {
+          "analyte": "Molybdenum",
+          "unit": "mg/kg",
+          "accreditation": "UKAS",
+          "result": {
+            "raw": "0.02",
+            "operator": null,
+            "value": 0.02
+          },
+          "limits": {
+            "inert_limit": {
+              "raw": "0.5",
+              "operator": null,
+              "value": 0.5
+            },
+            "snrhw_limit": {
+              "raw": "10.0",
+              "operator": null,
+              "value": 10.0
+            },
+            "hazardous_limit": {
+              "raw": "30",
+              "operator": null,
+              "value": 30.0
+            }
+          },
+          "threshold_flags": {
+            "inert_limit": false,
+            "snrhw_limit": false,
+            "hazardous_limit": false
+          }
+        },
+        {
+          "analyte": "Nickel",
+          "unit": "mg/kg",
+          "accreditation": "UKAS",
+          "result": {
+            "raw": "< 0.075",
+            "operator": "<",
+            "value": 0.075
+          },
+          "limits": {
+            "inert_limit": {
+              "raw": "0.4",
+              "operator": null,
+              "value": 0.4
+            },
+            "snrhw_limit": {
+              "raw": "10.0",
+              "operator": null,
+              "value": 10.0
+            },
+            "hazardous_limit": {
+              "raw": "40",
+              "operator": null,
+              "value": 40.0
+            }
+          },
+          "threshold_flags": {
+            "inert_limit": null,
+            "snrhw_limit": null,
+            "hazardous_limit": null
+          }
+        },
+        {
+          "analyte": "Lead",
+          "unit": "mg/kg",
+          "accreditation": "UKAS",
+          "result": {
+            "raw": "< 0.035",
+            "operator": "<",
+            "value": 0.035
+          },
+          "limits": {
+            "inert_limit": {
+              "raw": "0.5",
+              "operator": null,
+              "value": 0.5
+            },
+            "snrhw_limit": {
+              "raw": "10.0",
+              "operator": null,
+              "value": 10.0
+            },
+            "hazardous_limit": {
+              "raw": "50",
+              "operator": null,
+              "value": 50.0
+            }
+          },
+          "threshold_flags": {
+            "inert_limit": null,
+            "snrhw_limit": null,
+            "hazardous_limit": null
+          }
+        },
+        {
+          "analyte": "Antimony",
+          "unit": "mg/kg",
+          "accreditation": "UKAS",
+          "result": {
+            "raw": "< 0.050",
+            "operator": "<",
+            "value": 0.05
+          },
+          "limits": {
+            "inert_limit": {
+              "raw": "0.06",
+              "operator": null,
+              "value": 0.06
+            },
+            "snrhw_limit": {
+              "raw": "0.7",
+              "operator": null,
+              "value": 0.7
+            },
+            "hazardous_limit": {
+              "raw": "5",
+              "operator": null,
+              "value": 5.0
+            }
+          },
+          "threshold_flags": {
+            "inert_limit": null,
+            "snrhw_limit": null,
+            "hazardous_limit": null
+          }
+        },
+        {
+          "analyte": "Selenium",
+          "unit": "mg/kg",
+          "accreditation": "UKAS",
+          "result": {
+            "raw": "0.01",
+            "operator": null,
+            "value": 0.01
+          },
+          "limits": {
+            "inert_limit": {
+              "raw": "0.1",
+              "operator": null,
+              "value": 0.1
+            },
+            "snrhw_limit": {
+              "raw": "0.5",
+              "operator": null,
+              "value": 0.5
+            },
+            "hazardous_limit": {
+              "raw": "7",
+              "operator": null,
+              "value": 7.0
+            }
+          },
+          "threshold_flags": {
+            "inert_limit": false,
+            "snrhw_limit": false,
+            "hazardous_limit": false
+          }
+        },
+        {
+          "analyte": "Zinc",
+          "unit": "mg/kg",
+          "accreditation": "u",
+          "result": {
+            "raw": "< 0.25",
+            "operator": "<",
+            "value": 0.25
+          },
+          "limits": {
+            "inert_limit": {
+              "raw": "4",
+              "operator": null,
+              "value": 4.0
+            },
+            "snrhw_limit": {
+              "raw": "50",
+              "operator": null,
+              "value": 50.0
+            },
+            "hazardous_limit": {
+              "raw": "200",
+              "operator": null,
+              "value": 200.0
+            }
+          },
+          "threshold_flags": {
+            "inert_limit": null,
+            "snrhw_limit": null,
+            "hazardous_limit": null
+          }
+        },
+        {
+          "analyte": "Chloride",
+          "unit": "mg/kg",
+          "accreditation": "UKAS",
+          "result": {
+            "raw": "57",
+            "operator": null,
+            "value": 57.0
+          },
+          "limits": {
+            "inert_limit": {
+              "raw": "800",
+              "operator": null,
+              "value": 800.0
+            },
+            "snrhw_limit": {
+              "raw": "15000",
+              "operator": null,
+              "value": 15000.0
+            },
+            "hazardous_limit": {
+              "raw": "25000",
+              "operator": null,
+              "value": 25000.0
+            }
+          },
+          "threshold_flags": {
+            "inert_limit": false,
+            "snrhw_limit": false,
+            "hazardous_limit": false
+          }
+        },
+        {
+          "analyte": "Fluoride",
+          "unit": "mg/kg",
+          "accreditation": "u",
+          "result": {
+            "raw": "< 1",
+            "operator": "<",
+            "value": 1.0
+          },
+          "limits": {
+            "inert_limit": {
+              "raw": "10",
+              "operator": null,
+              "value": 10.0
+            },
+            "snrhw_limit": {
+              "raw": "150",
+              "operator": null,
+              "value": 150.0
+            },
+            "hazardous_limit": {
+              "raw": "500",
+              "operator": null,
+              "value": 500.0
+            }
+          },
+          "threshold_flags": {
+            "inert_limit": null,
+            "snrhw_limit": null,
+            "hazardous_limit": null
+          }
+        },
+        {
+          "analyte": "Sulphate (as SO)",
+          "unit": "mg/kg",
+          "accreditation": "UKAS",
+          "result": {
+            "raw": "640",
+            "operator": null,
+            "value": 640.0
+          },
+          "limits": {
+            "inert_limit": {
+              "raw": "1000",
+              "operator": null,
+              "value": 1000.0
+            },
+            "snrhw_limit": {
+              "raw": "20000",
+              "operator": null,
+              "value": 20000.0
+            },
+            "hazardous_limit": {
+              "raw": "50000",
+              "operator": null,
+              "value": 50000.0
+            }
+          },
+          "threshold_flags": {
+            "inert_limit": false,
+            "snrhw_limit": false,
+            "hazardous_limit": false
+          }
+        },
+        {
+          "analyte": "Total Dissolved Solids",
+          "unit": "mg/kg",
+          "accreditation": "u",
+          "result": {
+            "raw": "2500",
+            "operator": null,
+            "value": 2500.0
+          },
+          "limits": {
+            "inert_limit": {
+              "raw": "4000",
+              "operator": null,
+              "value": 4000.0
+            },
+            "snrhw_limit": {
+              "raw": "60000",
+              "operator": null,
+              "value": 60000.0
+            },
+            "hazardous_limit": {
+              "raw": "100000",
+              "operator": null,
+              "value": 100000.0
+            }
+          },
+          "threshold_flags": {
+            "inert_limit": false,
+            "snrhw_limit": false,
+            "hazardous_limit": false
+          }
+        },
+        {
+          "analyte": "Phenol Index",
+          "unit": "mg/kg",
+          "accreditation": "u",
+          "result": {
+            "raw": "< 1.0",
+            "operator": "<",
+            "value": 1.0
+          },
+          "limits": {
+            "inert_limit": {
+              "raw": "1",
+              "operator": null,
+              "value": 1.0
+            },
+            "snrhw_limit": null,
+            "hazardous_limit": null
+          },
+          "threshold_flags": {
+            "inert_limit": null,
+            "snrhw_limit": null,
+            "hazardous_limit": null
+          }
+        },
+        {
+          "analyte": "Dissolved Organic Carbon",
+          "unit": "mg/kg",
+          "accreditation": "UKAS",
+          "result": {
+            "raw": "< 20",
+            "operator": "<",
+            "value": 20.0
+          },
+          "limits": {
+            "inert_limit": {
+              "raw": "500",
+              "operator": null,
+              "value": 500.0
+            },
+            "snrhw_limit": {
+              "raw": "800",
+              "operator": null,
+              "value": 800.0
+            },
+            "hazardous_limit": {
+              "raw": "1000",
+              "operator": null,
+              "value": 1000.0
+            }
+          },
+          "threshold_flags": {
+            "inert_limit": null,
+            "snrhw_limit": null,
+            "hazardous_limit": null
+          }
+        }
+      ]
+    },
+    {
+      "page": 81,
+      "lab_reference": "496576",
+      "client_sample_id": null,
+      "client_sample_location": "WS4",
+      "client_sample_type": "ES",
+      "client_sample_number": null,
+      "depth_top_m": 0.3,
+      "depth_bottom_m": 0.3,
+      "date_of_sampling": "10/04/2025",
+      "time_of_sampling": null,
+      "sample_description": "Made Ground- mottled cream grey slightly gravelly slightly clayey silty sand",
+      "sample_matrix": "Sand",
+      "moisture_content_percent": 2.4,
+      "stone_content_percent": 57.0,
+      "solid_analysis": [
+        {
+          "analyte": "Total Organic Carbon",
+          "unit": "%",
+          "accreditation": "MCERTS",
+          "result": {
+            "raw": "2.2",
+            "operator": null,
+            "value": 2.2
+          },
+          "limits": {
+            "inert_limit": {
+              "raw": "3.0",
+              "operator": null,
+              "value": 3.0
+            },
+            "snrhw_limit": {
+              "raw": "5.0",
+              "operator": null,
+              "value": 5.0
+            },
+            "hazardous_limit": {
+              "raw": "6.0",
+              "operator": null,
+              "value": 6.0
+            }
+          },
+          "threshold_flags": {
+            "inert_limit": false,
+            "snrhw_limit": false,
+            "hazardous_limit": false
+          }
+        },
+        {
+          "analyte": "Loss on Ignition",
+          "unit": "%",
+          "accreditation": "UKAS",
+          "result": {
+            "raw": "4.5",
+            "operator": null,
+            "value": 4.5
+          },
+          "limits": {
+            "inert_limit": null,
+            "snrhw_limit": null,
+            "hazardous_limit": {
+              "raw": "10.0",
+              "operator": null,
+              "value": 10.0
+            }
+          },
+          "threshold_flags": {
+            "inert_limit": null,
+            "snrhw_limit": null,
+            "hazardous_limit": false
+          }
+        },
+        {
+          "analyte": "BTEX",
+          "unit": "mg/kg",
+          "accreditation": "MCERTS",
+          "result": {
+            "raw": "< 0.06",
+            "operator": "<",
+            "value": 0.06
+          },
+          "limits": {
+            "inert_limit": {
+              "raw": "6.00",
+              "operator": null,
+              "value": 6.0
+            },
+            "snrhw_limit": null,
+            "hazardous_limit": null
+          },
+          "threshold_flags": {
+            "inert_limit": null,
+            "snrhw_limit": null,
+            "hazardous_limit": null
+          }
+        },
+        {
+          "analyte": "PCB\u2019s (7 Congeners)",
+          "unit": "mg/kg",
+          "accreditation": "MCERTS",
+          "result": {
+            "raw": "< 0.250",
+            "operator": "<",
+            "value": 0.25
+          },
+          "limits": {
+            "inert_limit": {
+              "raw": "1.00",
+              "operator": null,
+              "value": 1.0
+            },
+            "snrhw_limit": null,
+            "hazardous_limit": null
+          },
+          "threshold_flags": {
+            "inert_limit": null,
+            "snrhw_limit": null,
+            "hazardous_limit": null
+          }
+        },
+        {
+          "analyte": "Mineral Oil (>C10 to C40) [EH_1D_Total]",
+          "unit": "mg/kg",
+          "accreditation": "MCERTS",
+          "result": {
+            "raw": "1390",
+            "operator": null,
+            "value": 1390.0
+          },
+          "limits": {
+            "inert_limit": {
+              "raw": "500",
+              "operator": null,
+              "value": 500.0
+            },
+            "snrhw_limit": null,
+            "hazardous_limit": null
+          },
+          "threshold_flags": {
+            "inert_limit": true,
+            "snrhw_limit": null,
+            "hazardous_limit": null
+          }
+        },
+        {
+          "analyte": "PAH",
+          "unit": "mg/kg",
+          "accreditation": "u",
+          "result": {
+            "raw": "110",
+            "operator": null,
+            "value": 110.0
+          },
+          "limits": {
+            "inert_limit": {
+              "raw": "100",
+              "operator": null,
+              "value": 100.0
+            },
+            "snrhw_limit": null,
+            "hazardous_limit": null
+          },
+          "threshold_flags": {
+            "inert_limit": true,
+            "snrhw_limit": null,
+            "hazardous_limit": null
+          }
+        },
+        {
+          "analyte": "pH",
+          "unit": "units",
+          "accreditation": "MCERTS",
+          "result": {
+            "raw": "11.8",
+            "operator": null,
+            "value": 11.8
+          },
+          "limits": {
+            "inert_limit": null,
+            "snrhw_limit": {
+              "raw": "> 6",
+              "operator": ">",
+              "value": 6.0
+            },
+            "hazardous_limit": null
+          },
+          "threshold_flags": {
+            "inert_limit": null,
+            "snrhw_limit": true,
+            "hazardous_limit": null
+          }
+        }
+      ],
+      "eluate_analysis": [
+        {
+          "analyte": "Arsenic",
+          "unit": "mg/kg",
+          "accreditation": "UKAS",
+          "result": {
+            "raw": "< 0.0050",
+            "operator": "<",
+            "value": 0.005
+          },
+          "limits": {
+            "inert_limit": {
+              "raw": "0.50",
+              "operator": null,
+              "value": 0.5
+            },
+            "snrhw_limit": {
+              "raw": "2",
+              "operator": null,
+              "value": 2.0
+            },
+            "hazardous_limit": {
+              "raw": "25",
+              "operator": null,
+              "value": 25.0
+            }
+          },
+          "threshold_flags": {
+            "inert_limit": null,
+            "snrhw_limit": null,
+            "hazardous_limit": null
+          }
+        },
+        {
+          "analyte": "Barium",
+          "unit": "mg/kg",
+          "accreditation": "UKAS",
+          "result": {
+            "raw": "0.40",
+            "operator": null,
+            "value": 0.4
+          },
+          "limits": {
+            "inert_limit": {
+              "raw": "20",
+              "operator": null,
+              "value": 20.0
+            },
+            "snrhw_limit": {
+              "raw": "100",
+              "operator": null,
+              "value": 100.0
+            },
+            "hazardous_limit": {
+              "raw": "300",
+              "operator": null,
+              "value": 300.0
+            }
+          },
+          "threshold_flags": {
+            "inert_limit": false,
+            "snrhw_limit": false,
+            "hazardous_limit": false
+          }
+        },
+        {
+          "analyte": "Cadmium",
+          "unit": "mg/kg",
+          "accreditation": "UKAS",
+          "result": {
+            "raw": "< 0.0025",
+            "operator": "<",
+            "value": 0.0025
+          },
+          "limits": {
+            "inert_limit": {
+              "raw": "0.04",
+              "operator": null,
+              "value": 0.04
+            },
+            "snrhw_limit": {
+              "raw": "1",
+              "operator": null,
+              "value": 1.0
+            },
+            "hazardous_limit": {
+              "raw": "5",
+              "operator": null,
+              "value": 5.0
+            }
+          },
+          "threshold_flags": {
+            "inert_limit": null,
+            "snrhw_limit": null,
+            "hazardous_limit": null
+          }
+        },
+        {
+          "analyte": "Chromium (total)",
+          "unit": "mg/kg",
+          "accreditation": "UKAS",
+          "result": {
+            "raw": "0.63",
+            "operator": null,
+            "value": 0.63
+          },
+          "limits": {
+            "inert_limit": {
+              "raw": "0.5",
+              "operator": null,
+              "value": 0.5
+            },
+            "snrhw_limit": {
+              "raw": "10",
+              "operator": null,
+              "value": 10.0
+            },
+            "hazardous_limit": {
+              "raw": "70",
+              "operator": null,
+              "value": 70.0
+            }
+          },
+          "threshold_flags": {
+            "inert_limit": true,
+            "snrhw_limit": false,
+            "hazardous_limit": false
+          }
+        },
+        {
+          "analyte": "Copper",
+          "unit": "mg/kg",
+          "accreditation": "UKAS",
+          "result": {
+            "raw": "0.03",
+            "operator": null,
+            "value": 0.03
+          },
+          "limits": {
+            "inert_limit": {
+              "raw": "2.0",
+              "operator": null,
+              "value": 2.0
+            },
+            "snrhw_limit": {
+              "raw": "50",
+              "operator": null,
+              "value": 50.0
+            },
+            "hazardous_limit": {
+              "raw": "100",
+              "operator": null,
+              "value": 100.0
+            }
+          },
+          "threshold_flags": {
+            "inert_limit": false,
+            "snrhw_limit": false,
+            "hazardous_limit": false
+          }
+        },
+        {
+          "analyte": "Mercury",
+          "unit": "mg/kg",
+          "accreditation": "UKAS",
+          "result": {
+            "raw": "< 0.00050",
+            "operator": "<",
+            "value": 0.0005
+          },
+          "limits": {
+            "inert_limit": {
+              "raw": "0.01",
+              "operator": null,
+              "value": 0.01
+            },
+            "snrhw_limit": {
+              "raw": "0.2",
+              "operator": null,
+              "value": 0.2
+            },
+            "hazardous_limit": {
+              "raw": "2",
+              "operator": null,
+              "value": 2.0
+            }
+          },
+          "threshold_flags": {
+            "inert_limit": null,
+            "snrhw_limit": null,
+            "hazardous_limit": null
+          }
+        },
+        {
+          "analyte": "Molybdenum",
+          "unit": "mg/kg",
+          "accreditation": "UKAS",
+          "result": {
+            "raw": "0.04",
+            "operator": null,
+            "value": 0.04
+          },
+          "limits": {
+            "inert_limit": {
+              "raw": "0.5",
+              "operator": null,
+              "value": 0.5
+            },
+            "snrhw_limit": {
+              "raw": "10.0",
+              "operator": null,
+              "value": 10.0
+            },
+            "hazardous_limit": {
+              "raw": "30",
+              "operator": null,
+              "value": 30.0
+            }
+          },
+          "threshold_flags": {
+            "inert_limit": false,
+            "snrhw_limit": false,
+            "hazardous_limit": false
+          }
+        },
+        {
+          "analyte": "Nickel",
+          "unit": "mg/kg",
+          "accreditation": "UKAS",
+          "result": {
+            "raw": "< 0.075",
+            "operator": "<",
+            "value": 0.075
+          },
+          "limits": {
+            "inert_limit": {
+              "raw": "0.4",
+              "operator": null,
+              "value": 0.4
+            },
+            "snrhw_limit": {
+              "raw": "10.0",
+              "operator": null,
+              "value": 10.0
+            },
+            "hazardous_limit": {
+              "raw": "40",
+              "operator": null,
+              "value": 40.0
+            }
+          },
+          "threshold_flags": {
+            "inert_limit": null,
+            "snrhw_limit": null,
+            "hazardous_limit": null
+          }
+        },
+        {
+          "analyte": "Lead",
+          "unit": "mg/kg",
+          "accreditation": "UKAS",
+          "result": {
+            "raw": "< 0.035",
+            "operator": "<",
+            "value": 0.035
+          },
+          "limits": {
+            "inert_limit": {
+              "raw": "0.5",
+              "operator": null,
+              "value": 0.5
+            },
+            "snrhw_limit": {
+              "raw": "10.0",
+              "operator": null,
+              "value": 10.0
+            },
+            "hazardous_limit": {
+              "raw": "50",
+              "operator": null,
+              "value": 50.0
+            }
+          },
+          "threshold_flags": {
+            "inert_limit": null,
+            "snrhw_limit": null,
+            "hazardous_limit": null
+          }
+        },
+        {
+          "analyte": "Antimony",
+          "unit": "mg/kg",
+          "accreditation": "UKAS",
+          "result": {
+            "raw": "< 0.050",
+            "operator": "<",
+            "value": 0.05
+          },
+          "limits": {
+            "inert_limit": {
+              "raw": "0.06",
+              "operator": null,
+              "value": 0.06
+            },
+            "snrhw_limit": {
+              "raw": "0.7",
+              "operator": null,
+              "value": 0.7
+            },
+            "hazardous_limit": {
+              "raw": "5",
+              "operator": null,
+              "value": 5.0
+            }
+          },
+          "threshold_flags": {
+            "inert_limit": null,
+            "snrhw_limit": null,
+            "hazardous_limit": null
+          }
+        },
+        {
+          "analyte": "Selenium",
+          "unit": "mg/kg",
+          "accreditation": "UKAS",
+          "result": {
+            "raw": "< 0.0050",
+            "operator": "<",
+            "value": 0.005
+          },
+          "limits": {
+            "inert_limit": {
+              "raw": "0.1",
+              "operator": null,
+              "value": 0.1
+            },
+            "snrhw_limit": {
+              "raw": "0.5",
+              "operator": null,
+              "value": 0.5
+            },
+            "hazardous_limit": {
+              "raw": "7",
+              "operator": null,
+              "value": 7.0
+            }
+          },
+          "threshold_flags": {
+            "inert_limit": null,
+            "snrhw_limit": null,
+            "hazardous_limit": null
+          }
+        },
+        {
+          "analyte": "Zinc",
+          "unit": "mg/kg",
+          "accreditation": "u",
+          "result": {
+            "raw": "< 0.25",
+            "operator": "<",
+            "value": 0.25
+          },
+          "limits": {
+            "inert_limit": {
+              "raw": "4",
+              "operator": null,
+              "value": 4.0
+            },
+            "snrhw_limit": {
+              "raw": "50",
+              "operator": null,
+              "value": 50.0
+            },
+            "hazardous_limit": {
+              "raw": "200",
+              "operator": null,
+              "value": 200.0
+            }
+          },
+          "threshold_flags": {
+            "inert_limit": null,
+            "snrhw_limit": null,
+            "hazardous_limit": null
+          }
+        },
+        {
+          "analyte": "Chloride",
+          "unit": "mg/kg",
+          "accreditation": "UKAS",
+          "result": {
+            "raw": "180",
+            "operator": null,
+            "value": 180.0
+          },
+          "limits": {
+            "inert_limit": {
+              "raw": "800",
+              "operator": null,
+              "value": 800.0
+            },
+            "snrhw_limit": {
+              "raw": "15000",
+              "operator": null,
+              "value": 15000.0
+            },
+            "hazardous_limit": {
+              "raw": "25000",
+              "operator": null,
+              "value": 25000.0
+            }
+          },
+          "threshold_flags": {
+            "inert_limit": false,
+            "snrhw_limit": false,
+            "hazardous_limit": false
+          }
+        },
+        {
+          "analyte": "Fluoride",
+          "unit": "mg/kg",
+          "accreditation": "u",
+          "result": {
+            "raw": "< 1",
+            "operator": "<",
+            "value": 1.0
+          },
+          "limits": {
+            "inert_limit": {
+              "raw": "10",
+              "operator": null,
+              "value": 10.0
+            },
+            "snrhw_limit": {
+              "raw": "150",
+              "operator": null,
+              "value": 150.0
+            },
+            "hazardous_limit": {
+              "raw": "500",
+              "operator": null,
+              "value": 500.0
+            }
+          },
+          "threshold_flags": {
+            "inert_limit": null,
+            "snrhw_limit": null,
+            "hazardous_limit": null
+          }
+        },
+        {
+          "analyte": "Sulphate (as SO)",
+          "unit": "mg/kg",
+          "accreditation": "UKAS",
+          "result": {
+            "raw": "460",
+            "operator": null,
+            "value": 460.0
+          },
+          "limits": {
+            "inert_limit": {
+              "raw": "1000",
+              "operator": null,
+              "value": 1000.0
+            },
+            "snrhw_limit": {
+              "raw": "20000",
+              "operator": null,
+              "value": 20000.0
+            },
+            "hazardous_limit": {
+              "raw": "50000",
+              "operator": null,
+              "value": 50000.0
+            }
+          },
+          "threshold_flags": {
+            "inert_limit": false,
+            "snrhw_limit": false,
+            "hazardous_limit": false
+          }
+        },
+        {
+          "analyte": "Total Dissolved Solids",
+          "unit": "mg/kg",
+          "accreditation": "u",
+          "result": {
+            "raw": "6100",
+            "operator": null,
+            "value": 6100.0
+          },
+          "limits": {
+            "inert_limit": {
+              "raw": "4000",
+              "operator": null,
+              "value": 4000.0
+            },
+            "snrhw_limit": {
+              "raw": "60000",
+              "operator": null,
+              "value": 60000.0
+            },
+            "hazardous_limit": {
+              "raw": "100000",
+              "operator": null,
+              "value": 100000.0
+            }
+          },
+          "threshold_flags": {
+            "inert_limit": true,
+            "snrhw_limit": false,
+            "hazardous_limit": false
+          }
+        },
+        {
+          "analyte": "Phenol Index",
+          "unit": "mg/kg",
+          "accreditation": "u",
+          "result": {
+            "raw": "< 1.0",
+            "operator": "<",
+            "value": 1.0
+          },
+          "limits": {
+            "inert_limit": {
+              "raw": "1",
+              "operator": null,
+              "value": 1.0
+            },
+            "snrhw_limit": null,
+            "hazardous_limit": null
+          },
+          "threshold_flags": {
+            "inert_limit": null,
+            "snrhw_limit": null,
+            "hazardous_limit": null
+          }
+        },
+        {
+          "analyte": "Dissolved Organic Carbon",
+          "unit": "mg/kg",
+          "accreditation": "UKAS",
+          "result": {
+            "raw": "27.0",
+            "operator": null,
+            "value": 27.0
+          },
+          "limits": {
+            "inert_limit": {
+              "raw": "500",
+              "operator": null,
+              "value": 500.0
+            },
+            "snrhw_limit": {
+              "raw": "800",
+              "operator": null,
+              "value": 800.0
+            },
+            "hazardous_limit": {
+              "raw": "1000",
+              "operator": null,
+              "value": 1000.0
+            }
+          },
+          "threshold_flags": {
+            "inert_limit": false,
+            "snrhw_limit": false,
+            "hazardous_limit": false
+          }
+        }
+      ]
+    }
+  ],
+  "chemical_table_pages": [
+    {
+      "page": 7,
+      "keyword_matches": 2,
+      "table_count": 3,
+      "preview": "EXECUTIVE SUMMARY\nEXECUTIVE SUMMARY\nSite Address Anglo European School, Ingatestone, Essex, CM4 0DJ\nNational Grid\ns E: 565110, N: 199880\nlia Reference\nt\ne\nD Site Area 3.96Ha (approx.)\ne\nt\niS Proposed It is understood that the proposed development will comprise the demolition of some existing\nDevelopment school buildings, to be replaced with a new 3-storey main building. The works will also include",
+      "tables_preview": [
+        [
+          [
+            "",
+            "s\nlia\nt\ne\nD\ne\nt\niS",
+            "",
+            "Site Address",
+            "Anglo European School, Ingatestone, Essex, CM4 0DJ"
+          ],
+          [
+            "",
+            "",
+            "",
+            "National Grid",
+            "E: 565110, N: 199880"
+          ],
+          [
+            "",
+            "",
+            "",
+            "Reference",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "Site Area",
+            "3.96Ha (approx.)"
+          ],
+          [
+            "",
+            "",
+            "Proposed\nDevelopment",
+            "Proposed",
+            "It is understood that the proposed development will comprise the demolition of some existing\nschool buildings, to be replaced with a new 3-storey main building. The works will also include\nnew access roads around the campus, new carpark areas and grassed social areas."
+          ]
+        ],
+        [
+          [
+            "Scope of"
+          ],
+          [
+            "Works"
+          ]
+        ]
+      ]
+    },
+    {
+      "page": 10,
+      "keyword_matches": 2,
+      "table_count": 1,
+      "preview": "SECTION 1\nINTRODUCTION\n\u2022 Undertaking of laboratory chemical and geotechnical testing upon samples obtained;\n\u2022 Return ground gas/groundwater monitoring;\n\u2022 The compilation of this report, which collects and discusses the above data, and presents\nan assessment of the site conditions, conclusions and recommendations.\n1.5 Previous/Supplied Documentation\n1.5.1 A number of relevant reports prepared by or",
+      "tables_preview": [
+        [
+          [
+            "Title",
+            "Author",
+            "Reference",
+            "Date"
+          ]
+        ]
+      ]
+    },
+    {
+      "page": 14,
+      "keyword_matches": 1,
+      "table_count": 1,
+      "preview": "SECTION 2\nDESK STUDY SUMMARY\nArea Item Details\nControlled waters: Swimming pool and ponds on site.\nThe two ponds are present on site with a third just\noutside the northern boundary close to the eastern-\nmost corner.\nTanks: Six gas-powered boiler rooms are present across\nBuildings EFAA, EFAE, EFAG, EFAH, and EFAI, supplied\nfrom a service box near the south-west entrance. All are\ngenerally brick-bui",
+      "tables_preview": [
+        [
+          [
+            "Area",
+            "Item",
+            "Details"
+          ]
+        ]
+      ]
+    },
+    {
+      "page": 20,
+      "keyword_matches": 2,
+      "table_count": 1,
+      "preview": "SECTION 4\nGROUND INVESTIGATION\n4 GROUND INVESTIGATION\n4.1 Scope of Works\n4.1.1 A ground investigation was undertaken on the 10th, 11th & 17th March 2025 and was based on\na specification provided by the client. Exploratory hole locations were also specified by the\nclient. A site walkover and ground investigation photo plan is presented in Figure 3, Appendix\n1.\n4.1.2 A summary of the fieldwork carri",
+      "tables_preview": [
+        [
+          [
+            "Investigation Type",
+            "Number of\nExploratory Holes\nAchieved",
+            "Exploratory\nHole\nDesignation",
+            "Depth\nAchieved",
+            "Justification"
+          ]
+        ]
+      ]
+    },
+    {
+      "page": 22,
+      "keyword_matches": 10,
+      "table_count": 3,
+      "preview": "SECTION 4\nGROUND INVESTIGATION\nTable 4.2: Chemical Tests Scheduled\nNo. of tests\nMade Ground /\nTest Suite Natural\nTopsoil\nBasic Suite 3 4 0\nJomas Modified BRE SD-1 Suite 2 2\nAsbestos Screen & ID 4 0\nWaste Acceptance Criteria 2 0\n4.4.4 The determinands contained in the Basic Suite 3 are as detailed in Table 4.3 below.\nTable 4.3: Basic Suite of Determinands\nLIMIT OF\nUKAS\nDETERMINAND DETECTION TECHNIQ",
+      "tables_preview": [
+        [
+          [
+            "",
+            "",
+            "No. of tests"
+          ],
+          [
+            "Test Suite",
+            "",
+            ""
+          ],
+          [
+            "",
+            "Basic Suite 3",
+            ""
+          ],
+          [
+            "",
+            "Jomas Modified BRE SD-1 Suite",
+            ""
+          ],
+          [
+            "",
+            "Asbestos Screen & ID",
+            ""
+          ]
+        ],
+        [
+          [
+            "DETERMINAND",
+            "",
+            "",
+            "LIMIT OF",
+            "UKAS\nACCREDITATION",
+            "TECHNIQUE"
+          ],
+          [
+            "",
+            "",
+            "",
+            "DETECTION",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "(mg/kg)",
+            "",
+            ""
+          ],
+          [
+            "",
+            "Arsenic",
+            "2",
+            "",
+            "Y (MCERTS)",
+            ""
+          ],
+          [
+            "",
+            "Cadmium",
+            "0.2",
+            "",
+            "Y (MCERTS)",
+            ""
+          ]
+        ]
+      ]
+    },
+    {
+      "page": 23,
+      "keyword_matches": 6,
+      "table_count": 1,
+      "preview": "SECTION 4\nGROUND INVESTIGATION\n4.4.7 This testing was designed to classify the samples and to obtain parameters (either directly or\nsufficient to allow relevant correlations to be used) relevant to the technical objectives of the\ninvestigation.\n4.4.8 The following laboratory geotechnical testing was carried out:\nTable 4.4: Laboratory Geotechnical Analysis\nMethodology Test Description Number of tes",
+      "tables_preview": [
+        [
+          [
+            "Methodology",
+            "Test Description",
+            "Number of tests"
+          ]
+        ]
+      ]
+    },
+    {
+      "page": 28,
+      "keyword_matches": 4,
+      "table_count": 1,
+      "preview": "SECTION 6\nRISK ASSESSMENT \u2013 ANALYTICAL\nFRAMEWORK\nTable 6.1: Selected Assessment Criteria - Contaminants in Soils\nAssessment Criteria\nSubstance Group Determinand(s)\nSelected\nOrganic Substances\nNon-halogenated Total Petroleum Hydrocarbons (TPHCWG banded) S4UL\nHydrocarbons\nTotal Phenols S4UL\nPolycyclic Aromatic Naphthalene, Acenaphthylene, Acenaphthene, S4UL\nHydrocarbons (PAH-16) Fluorene, Phenanthre",
+      "tables_preview": [
+        [
+          [
+            "Substance Group",
+            "Determinand(s)",
+            "Assessment Criteria\nSelected"
+          ]
+        ]
+      ]
+    },
+    {
+      "page": 29,
+      "keyword_matches": 28,
+      "table_count": 2,
+      "preview": "SECTION 7\nGENERIC QUANTITATIVE RISK\nASSESSMENT \u2013 SOIL DATA\n7 GENERIC QUANTITATIVE RISK ASSESSMENT \u2013 SOIL DATA\n7.1 Screening of Soil Chemical Analysis Results \u2013 Human Health Risk Assessment\n7.1.1 Laboratory analysis results for soils is summarised in Table 7.1 to Error! Reference source not\nfound.. Raw laboratory data is included in Appendix 3.\n7.1.2 Results have been screened against generic asses",
+      "tables_preview": [
+        [
+          [
+            "Determinand",
+            "Unit",
+            "No.",
+            "Screening Criteria",
+            "Min",
+            "Max",
+            "No. Exceeding"
+          ],
+          [
+            "",
+            "",
+            "samples",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "tested",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ],
+        [
+          [
+            "Determinand",
+            "Unit",
+            "No.",
+            "Screening Criteria",
+            "Min",
+            "Max",
+            "No. Exceeding"
+          ],
+          [
+            "",
+            "",
+            "Samples",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "Tested",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ]
+      ]
+    },
+    {
+      "page": 30,
+      "keyword_matches": 21,
+      "table_count": 5,
+      "preview": "SECTION 7\nGENERIC QUANTITATIVE RISK ASSESSMENT \u2013\nSOIL DATA\nNo.\nDeterminand Unit Samples Screening Criteria Min Max No. Exceeding\nTested\nChrysene mg/kg 4 S4UL 30 <0.02 10 0\n2No exceedances\nBenzo(b)fluoranthene mg/kg 4 S4UL 3.9 <0.02 13 WS2 @ 0.3m\nWS4 @ 0.5m\nBenzo(k)fluoranthene mg/kg 4 S4UL 110 <0.02 4.7 0\n2No exceedances\nBenzo(a)pyrene mg/kg 4 S4UL 3.2 <0.02 9.6 WS2 @ 0.3m\nWS4 @ 0.5m\nIndeno(123-cd",
+      "tables_preview": [
+        [
+          [
+            "Determinand",
+            "Unit",
+            "No.\nSamples\nTested",
+            "Screening Criteria",
+            "Min",
+            "Max",
+            "No. Exceeding"
+          ]
+        ],
+        [
+          [
+            "-",
+            "-",
+            "<0.32 380",
+            "-"
+          ]
+        ]
+      ]
+    },
+    {
+      "page": 31,
+      "keyword_matches": 4,
+      "table_count": 2,
+      "preview": "SECTION 7\nGENERIC QUANTITATIVE RISK ASSESSMENT \u2013\nSOIL DATA\nQuantification result\nSample Screening Result Comments\n(%)\nWS5 \u2013 0.25mbgl None Detected N/A N/A\n7.2.2 No asbestos containing materials (ACM) or fibres were reported in samples analysed in the\nlaboratory.\n7.3 Vapour Risk Assessment from a Soil Source\n7.3.1 As outlined in Table 7.3 a number of polycyclic aromatic hydrocarbons have been found",
+      "tables_preview": [
+        [
+          [
+            "Sample",
+            "Screening Result",
+            "Quantification result\n(%)",
+            "Comments"
+          ]
+        ],
+        [
+          [
+            "Compound",
+            "Contribution of Vapour",
+            "Screening\nCriteria\n(mg/kg)",
+            "Maximum\nRecorded\nValue (mg/kg)",
+            "Potential\nVapour\nRisk?"
+          ],
+          [
+            "",
+            "Inhalation to Total",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "Exposure",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "(%)",
+            "",
+            "",
+            ""
+          ]
+        ]
+      ]
+    },
+    {
+      "page": 32,
+      "keyword_matches": 19,
+      "table_count": 4,
+      "preview": "SECTION 7\nGENERIC QUANTITATIVE RISK ASSESSMENT \u2013\nSOIL DATA\n7.4 Summary of Human Health Generic Quantitative Risk Assessment\n7.4.1 In summary, concentrations of various PAH in excess of the GAC have been recorded in samples\nof Made Ground.\n7.5 Screening of Soil Chemical Analysis Results \u2013 Potential Risks to Plant Growth\n7.5.1 Zinc, copper and nickel are phytotoxins and could therefore inhibit plant",
+      "tables_preview": [
+        [
+          [
+            "Determinand",
+            "Threshold level",
+            "Min",
+            "Max\n(mg/kg)",
+            "No. Exceeding"
+          ],
+          [
+            "",
+            "(mg/kg)",
+            "(mg/kg)",
+            "",
+            ""
+          ]
+        ],
+        [
+          [
+            "7.6.\nDeterminand\n7",
+            "2\nNo. of\ntests\n.6.3",
+            "Threshold for",
+            "Value for site data (mg/kg)",
+            "",
+            "No of\nExceedances"
+          ],
+          [
+            "",
+            "",
+            "Polyethylene",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "Pipes*",
+            "Min",
+            "Max",
+            ""
+          ],
+          [
+            "",
+            "",
+            "(mg/kg)",
+            "",
+            "(above LOD**)",
+            ""
+          ]
+        ]
+      ]
+    },
+    {
+      "page": 33,
+      "keyword_matches": 7,
+      "table_count": 2,
+      "preview": "SECTION 7\nGENERIC QUANTITATIVE RISK ASSESSMENT \u2013\nSOIL DATA\n7.6.2 Threshold for\nValue for site data (mg/kg)\nNo. of Polyethylene No of\nDeterminand\ntests Pipes* Max Exceedances\nMin\n7.6.3 (mg/kg) (above LOD**)\nWS2 @ 0.3m\nPhenols 4 2 LOD LOD 0\n* UK Water Industry Research (2010) Source Guidance for Selection of Water Supply Pipes to be Used in Brownfield Sites.\nReport No. 10/WM/03/21.\n** LOD = Laborato",
+      "tables_preview": [
+        [
+          [
+            "7.6.\nDeterminand\n7.",
+            "2\nNo. of\ntests\n6.3",
+            "Threshold for",
+            "Value for site data (mg/kg)",
+            "",
+            "No of\nExceedances"
+          ],
+          [
+            "",
+            "",
+            "Polyethylene",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "Pipes*",
+            "Min",
+            "Max\n(above LOD**)",
+            ""
+          ],
+          [
+            "",
+            "",
+            "(mg/kg)",
+            "",
+            "",
+            ""
+          ]
+        ],
+        [
+          [
+            "No. of"
+          ],
+          [
+            "tests"
+          ]
+        ]
+      ]
+    },
+    {
+      "page": 34,
+      "keyword_matches": 3,
+      "table_count": 4,
+      "preview": "SECTION 7\nGENERIC QUANTITATIVE RISK ASSESSMENT \u2013\nSOIL DATA\nTable 7.8: Waste Acceptance Criteria Testing Summary\nExceeds \u201cStable\nNon-Reactive Exceeds\n7.8.3 Exceeds \u201cInert\nMaterial Hazardous Waste in \u201cHazardous Waste\nSample Waste Landfill\" Notes\nType Non-Hazardous Landfill\u201d\nThresholds?\nLandfill\" Thresholds?\nThresholds?\nExceeds threshold\nWS1 \u2013 Sandy of inert waste\n\u2713 X X\n0.5mbgl gravel landfill for mi",
+      "tables_preview": [
+        [
+          [
+            "7.8.3\nSample",
+            "Material\nType",
+            "Exceeds \u201cInert\nWaste Landfill\"\nThresholds?",
+            "Exceeds \u201cStable",
+            "Exceeds\n\u201cHazardous Waste\nLandfill\u201d\nThresholds?",
+            "Notes"
+          ],
+          [
+            "",
+            "",
+            "",
+            "Non-Reactive",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "Hazardous Waste in",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "Non-Hazardous",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "Landfill\"",
+            "",
+            ""
+          ]
+        ],
+        [
+          [
+            "Exceeds \u201cInert"
+          ],
+          [
+            "Waste Landfill\""
+          ],
+          [
+            "Thresholds?"
+          ]
+        ]
+      ]
+    },
+    {
+      "page": 35,
+      "keyword_matches": 2,
+      "table_count": 9,
+      "preview": "SECTION 8\nSOIL GAS RISK ASSESSMENT\n8 SOIL GAS RISK ASSESSMENT\n8.1 Soil Gas Results\n8.1.1 Four return monitoring visits have been undertaken between 29 April 2025 and 20 May 2025,\nto monitor wells installed within boreholes at the site for soil gas concentrations and\ngroundwater levels.\n8.1.2 During the visits atmospheric pressure ranged between 1012mb and 1020mb and pressure\ntrends observed were b",
+      "tables_preview": [
+        [
+          [
+            "Hole\nNo.",
+            "Number of\nmonitoring\nevents",
+            "CH\n4\n(%)",
+            "CO\n2\n(%)",
+            "O\n2\n(%)",
+            "VOCs\n(ppm)",
+            "Steady\nFlow\nRate\n(l/hr)",
+            "Peak\nFlow\nRate\n(l/hr)",
+            "Depth to\nwater\n(mbgl)",
+            "Well Response",
+            "Strata\ntargeted by\nresponse\nzone"
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "Zone as",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "installed",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "(top/bottom)",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "(mbgl)",
+            ""
+          ]
+        ],
+        [
+          [
+            "Steady"
+          ],
+          [
+            "Flow"
+          ],
+          [
+            "Rate"
+          ],
+          [
+            "(l/hr)"
+          ]
+        ]
+      ]
+    },
+    {
+      "page": 36,
+      "keyword_matches": 3,
+      "table_count": 3,
+      "preview": "SECTION 8\nSOIL GAS RISK ASSESSMENT\n8.2.5 The soil gas assessment method is based on that proposed by Wilson & Card (1999), which was\na development of a method proposed in CIRIA publication R149 (CIRIA, 1995). The method\nuses both gas concentrations and borehole flow rates to define a characteristic situation based\non the limiting borehole gas volume flow for methane and carbon dioxide. In both the",
+      "tables_preview": [
+        [
+          [
+            "Gas",
+            "Concentration\n(v/v %)",
+            "Peak Flow Rate\n(l/hr)",
+            "GSV (l/hr)",
+            "Characteristic"
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "Situation (after"
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "CIRIA C665)"
+          ]
+        ],
+        [
+          [
+            "Concentration"
+          ],
+          [
+            "(v/v %)"
+          ]
+        ]
+      ]
+    },
+    {
+      "page": 38,
+      "keyword_matches": 1,
+      "table_count": 1,
+      "preview": "SECTION 9\nGEO-ENVIRONMENTAL ASSESSMENT\nSUMMARY AND RECOMMENDATIONS\nroadway post-development and so the future presence of hardstanding will render the\nrisk low.\n\u2022 As with any ground investigation, the presence of further hotspots between sampling\npoints cannot be ruled out. Should any contamination be encountered, a suitably\nqualified environmental consultant should be informed immediately, so tha",
+      "tables_preview": [
+        [
+          [
+            "Hazard Identification",
+            "",
+            "",
+            "",
+            "Hazard Assessment",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "Relevant",
+            ""
+          ],
+          [
+            "Link",
+            "Contaminant",
+            "Pathway",
+            "Receptor",
+            "Pollutant",
+            "Contaminant Linkage Assessment"
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "Linkage?",
+            ""
+          ],
+          [
+            "",
+            "Contaminated\nsoil /\ngroundwater",
+            "Ingestion (via\nsoil dust) and\ninhalation (via\nsoil dust and\nvapours),\ningestion\nthrough dirty\nhands, dermal\ncontact with\nsoil/water.",
+            "Humans using\nthe site during\nconstruction.",
+            "N/A",
+            "Acute and sub chronic risks to construction/maintenance\nworkers are outside the scope of this assessment but\nwould be expected to be managed by appropriate health\nand safety procedures"
+          ]
+        ]
+      ]
+    },
+    {
+      "page": 44,
+      "keyword_matches": 1,
+      "table_count": 1,
+      "preview": "SECTION 10\nDERIVATION OF GEOTECHNICAL\nPARAMETERS\nFigure 10.3: Coefficient of Volume Compressibility (m ) v Depth\nv\nCoefficient of Compressibility (m2NM)\n0.00 0.05 0.10 0.15 0.20 0.25 0.30 0.35\n0\n1\n2\n)\nlg\nb\nm3\n(\nh\nt\np\ne\nD\n4\n5\nLowestoft Formation\nClaygate Member\n6\n10.4.3 The deposits are generally of \u201cmedium compressibility\u201d. This is as expected for glacial till\ndeposits (Lowestoft Formation), and w",
+      "tables_preview": [
+        [
+          [
+            "Strata",
+            "Unit Weight\n(kN/m3)"
+          ]
+        ]
+      ]
+    },
+    {
+      "page": 48,
+      "keyword_matches": 4,
+      "table_count": 1,
+      "preview": "SECTION ERROR! REFERENCE SOURCE NOT\nFOUND.\nGEOTECHNICAL ENGINEERING\nRECOMMENDATIONS\n11.2.11 Foundations greater than 2.50m deep would require structure-specific design by a structural\nengineer. In this instance, consideration could be given to the use of piled foundations instead,\nwhich might be preferable in terms of economy and practicality.\n11.2.12 Where any unexpected or soft ground conditions",
+      "tables_preview": [
+        [
+          [
+            "No Samples",
+            "Method for determining the sulphate characteristic\nvalue"
+          ],
+          [
+            "in the dataset",
+            ""
+          ]
+        ]
+      ]
+    },
+    {
+      "page": 49,
+      "keyword_matches": 2,
+      "table_count": 1,
+      "preview": "SECTION ERROR! REFERENCE SOURCE NOT\nFOUND.\nGEOTECHNICAL ENGINEERING\nRECOMMENDATIONS\nTable 11.2: Concrete in the Ground Class\nCharacteristic Characteristic Total Design\nNo ACEC\nStratum pH range WS Sulphate Potential Sulphate Sulphate\nSamples Class\n(mg/l) (%)1) Class\nMade Ground 6 6.1 \u2013 10.8 350 N/A DS-1 AC-1\nLowestoft Formation 1 8.1 179 N/A DS-1 AC-1\nClaygate Member 1 7.5 991 3.78 DS-5 AC-4s\n1) Ap",
+      "tables_preview": [
+        [
+          [
+            "Stratum",
+            "No\nSamples",
+            "pH range",
+            "Characteristic\nWS Sulphate\n(mg/l)",
+            "Characteristic Total\nPotential Sulphate\n(%)1)",
+            "Design\nSulphate\nClass",
+            "ACEC\nClass"
+          ]
+        ]
+      ]
+    },
+    {
+      "page": 51,
+      "keyword_matches": 3,
+      "table_count": 2,
+      "preview": "SECTION ERROR! REFERENCE SOURCE NOT\nFOUND.\nGEOTECHNICAL ENGINEERING\nRECOMMENDATIONS\nAverage DCP\nPosition Depth Range (mm) Stratum (Assumed)\nCBR (%)\nCBR8 \u2013 Test 2 300 \u2013 410 2.3 -\nCBR8 \u2013 Test 3 410 \u2013 1000 5.65 -\n11.6.2 Ground conditions for the CBR\u2019s are not available given that the method used (dynamic cone\npenetrometer) does not recover soils. However, in some locations the strata have been\nassume",
+      "tables_preview": [
+        [
+          [
+            "Position",
+            "",
+            "Depth Range (mm)",
+            "Average DCP\nCBR (%)",
+            "Stratum (Assumed)"
+          ],
+          [
+            "",
+            "CBR8 \u2013 Test 2",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "CBR8 \u2013 Test 3",
+            "",
+            "",
+            ""
+          ]
+        ],
+        [
+          [
+            "Position",
+            "Geology",
+            "Calculated Infiltration Rates (m/s)",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "1st cycle",
+            "2nd Cycle",
+            "3rd Cycle"
+          ],
+          [
+            "STP1",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "STP2",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ]
+      ]
+    },
+    {
+      "page": 80,
+      "keyword_matches": 26,
+      "table_count": 2,
+      "preview": "7 - 11 Harding Street\nP25/00440/JOM - 25-64088 Leicester\nLE1 4DH\nProject Reference - Anglo Europen School, Ingatestone, Essex, CM4 0DJ J3185\nCertificate Of Analysis - WAC Suite\nLab Reference 496575\nClient Sample ID -\nClient Sample Location WS1\nClient Sample Type ES\nClient Sample Number -\nDepth - Top (m) 0.5\nDepth - Bottom (m) 0.5\nDate of Sampling 10/04/2025\nTime of Sampling -\nSample Description Mo",
+      "tables_preview": [
+        [
+          [
+            "1.2\n5.0\n< 0.06\n< 0.250",
+            "3.0",
+            "5.0",
+            "6.0"
+          ],
+          [
+            "",
+            "-",
+            "-\n-\n-\n-\n-",
+            "10.0"
+          ],
+          [
+            "",
+            "6.00",
+            "",
+            "-\n-\n-\n-\n-"
+          ],
+          [
+            "",
+            "1.00",
+            "",
+            ""
+          ],
+          [
+            "1490",
+            "500",
+            "",
+            ""
+          ]
+        ],
+        [
+          [
+            "0.50",
+            "2",
+            "25"
+          ],
+          [
+            "20",
+            "100",
+            "300"
+          ],
+          [
+            "0.04",
+            "1",
+            "5"
+          ],
+          [
+            "0.5",
+            "10",
+            "70"
+          ],
+          [
+            "2.0",
+            "50",
+            "100"
+          ]
+        ]
+      ]
+    },
+    {
+      "page": 81,
+      "keyword_matches": 26,
+      "table_count": 3,
+      "preview": "7 - 11 Harding Street\nP25/00440/JOM - 25-64088 Leicester\nLE1 4DH\nProject Reference - Anglo Europen School, Ingatestone, Essex, CM4 0DJ J3185\nCertificate Of Analysis - WAC Suite\nLab Reference 496576\nClient Sample ID -\nClient Sample Location WS4\nClient Sample Type ES\nClient Sample Number -\nDepth - Top (m) 0.3\nDepth - Bottom (m) 0.3\nDate of Sampling 10/04/2025\nTime of Sampling -\nSample Description Ma",
+      "tables_preview": [
+        [
+          [
+            "2.2\n4.5\n< 0.06\n< 0.250",
+            "3.0",
+            "5.0",
+            "6.0"
+          ],
+          [
+            "",
+            "-",
+            "-\n-\n-\n-\n-",
+            "10.0"
+          ],
+          [
+            "",
+            "6.00",
+            "",
+            "-\n-\n-\n-\n-"
+          ],
+          [
+            "",
+            "1.00",
+            "",
+            ""
+          ],
+          [
+            "1390",
+            "500",
+            "",
+            ""
+          ]
+        ],
+        [
+          [
+            "< 0.0050\n0.40\n< 0.0025"
+          ],
+          [
+            "0.63"
+          ],
+          [
+            "0.03\n< 0.00050\n0.04\n< 0.075\n< 0.035\n< 0.050\n< 0.0050\n< 0.25\n180\n< 1\n460"
+          ],
+          [
+            "6100"
+          ],
+          [
+            "< 1.0\n27.0"
+          ]
+        ]
+      ]
+    },
+    {
+      "page": 92,
+      "keyword_matches": 2,
+      "table_count": 1,
+      "preview": "DEVIATING SAMPLE INFORMATION\nComments\nSample deviation is determined in accordance with the UKAS note \"Guidance on Deviating Samples\" and\nbased on reference standards and laboratory trials.\nFor samples identified as deviating, test result(s) may be compromised and may not be representative of\nthe sample at the time of sampling.\nChemtech Environmental Ltd cannot be held responsible for the integrit",
+      "tables_preview": [
+        [
+          [
+            "Lab ref",
+            "Sample ID",
+            "Depth (m)",
+            "Deviating",
+            "Tests (Reason for deviation)"
+          ],
+          [
+            "49227",
+            "WS2",
+            "2.90",
+            "N",
+            ""
+          ],
+          [
+            "49228",
+            "WS4",
+            "3.90",
+            "N",
+            ""
+          ]
+        ]
+      ]
+    },
+    {
+      "page": 93,
+      "keyword_matches": 2,
+      "table_count": 1,
+      "preview": "SOILS\n49227 49228\nSOIL SOIL\nWS2 WS4\n2.90 3.90\n30/04/2025 30/04/2025\nTest\ndohteM derccA\nDoL\nstinU\nLab Number\nClient Reference\nSample ID\nDepth (m)\nSampling Date\nMetals\nWater Soluble Sulphate CE061 M 0.01 g/l 0.179 0.991\nAcid Soluble Sulphate (SO4) CE062 M 0.01 % 0.06 0.27\nSulphur % CE264 N 0.0032 % 0.0166 1.26\nCombustion\nMoisture Content CE001 N 0.1 % 19.9 19.7\nWet Chem\npH\npH CE004 M 0.1 8.1 7.5\nuni",
+      "tables_preview": [
+        [
+          [
+            "Lab Number\nClient Reference\nSample ID\nDepth (m)\nSampling Date",
+            "",
+            "",
+            "",
+            "",
+            "49227",
+            "49228"
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "SOIL",
+            "SOIL"
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "WS2",
+            "WS4"
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "2.90",
+            "3.90"
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "30/04/2025",
+            "30/04/2025"
+          ]
+        ]
+      ]
+    },
+    {
+      "page": 94,
+      "keyword_matches": 1,
+      "table_count": 1,
+      "preview": "METHOD DETAILS\nMETHOD TESTNAME METHOD SUMMARY ANALYSIS BASIS\nCE061 W. Sol Metals ICPOES Air dried sample\nCE004 pH of Solids Potentiometric As submitted sample\nCE062 Acid Soluble Sulphate in Solids HCl Extract and ICPOES Air dried sample\nCE264 Metals by ICP in Soil ICPOES Air dried sample\nPage 5 of 6 Pages",
+      "tables_preview": [
+        [
+          [
+            "METHOD",
+            "TESTNAME",
+            "METHOD SUMMARY",
+            "ANALYSIS BASIS"
+          ],
+          [
+            "CE061",
+            "W. Sol Metals",
+            "ICPOES",
+            "Air dried sample"
+          ],
+          [
+            "CE004",
+            "pH of Solids",
+            "Potentiometric",
+            "As submitted sample"
+          ],
+          [
+            "CE062",
+            "Acid Soluble Sulphate in Solids",
+            "HCl Extract and ICPOES",
+            "Air dried sample"
+          ],
+          [
+            "CE264",
+            "Metals by ICP in Soil",
+            "ICPOES",
+            "Air dried sample"
+          ]
+        ]
+      ]
+    },
+    {
+      "page": 97,
+      "keyword_matches": 2,
+      "table_count": 1,
+      "preview": "Summary of Water Content, Liquid Limit (4 point) and Plastic Limit Results\nJob No. Project Name Programme\nSamples received 15/04/2025\n37178 Anglo European School. Ingatestone, Essex, CM4 0DJ\nSchedule received 24/04/2025\nProject No. Client Project started 25/04/2025\nJ3185 Jomas Associates Testing Started 13/05/2025\nSample\nWater Passing LL PL PI\nHole No. Soil Description Remarks\nContent 425\u00b5m Prepar",
+      "tables_preview": [
+        [
+          [
+            "",
+            "",
+            "",
+            "Summary of Water Content, Liquid Limit (4 point) and Plastic Limit Results",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Job No.\n37178",
+            "",
+            "",
+            "Project Name\nAnglo European School. Ingatestone, Essex, CM4 0DJ",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "Programme",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "Samples received",
+            "",
+            "15/04/2025"
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "Schedule received",
+            "",
+            "24/04/2025"
+          ],
+          [
+            "Project No.\nJ3185",
+            "",
+            "",
+            "Client\nJomas Associates",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "Project started",
+            "",
+            "25/04/2025"
+          ]
+        ]
+      ]
+    },
+    {
+      "page": 98,
+      "keyword_matches": 2,
+      "table_count": 6,
+      "preview": "LIQUID LIMIT, PLASTIC LIMIT AND PLASTICITY Job No. 37178\nINDEX\nBorehole/Pit No. WS1\nSite Name Anglo European School. Ingatestone, Essex, CM4 0DJ Sample No. -\nProject No. J3185 Client Jomas Associates Depth Top 1.90 m\nDepth Base - m\nSample Type D\nBrown slightly gravelly slightly sandy silty CLAY (gravel is fmc and sub-\nSoil Description Samples received 15/04/2025\nangular to angular)\nSchedules recei",
+      "tables_preview": [
+        [
+          [
+            "LIQUID LIMIT, PLASTIC LIMIT AND PLASTICITY Job No. 37178\nINDEX\nBorehole/Pit No. WS1\nSite Name Anglo European School. Ingatestone, Essex, CM4 0DJ Sample No. -\nProject No. J3185 Client Jomas Associates Depth Top 1.90 m\nDepth Base - m\nSample Type D\nBrown slightly gravelly slightly sandy silty CLAY (gravel is fmc and sub-\nSoil Description Samples received 15/04/2025\nangular to angular)\nSchedules received 24/04/2025\nProject Started 25/04/2025\nDate Tested 13/05/2025\n30\nWATER CONTENT 14.4 %\n28\n26\n% PASSING 425\u00b5m SIEVE 82 %\n24\nLIQUID LIMIT 39 %\n22 mm\n20 PLASTIC LIMIT 13 % noitartenep\n18\nPLASTICITY INDEX 26 %\n16\nenoC\n14\nTested after >425um\nPreparation Method\nremoved by hand\n12\n10 Remarks\n35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51\nMoisture Content %\nPLASTICITY INDEX\n70\nCL CI CH CV CE\n60\n50\n)%(\n40\nxednI\nyticitsalP\n30\n20\n10\nML MI MH MV ME\n0\n0 10 20 30 40 50 60 70 80 90 100 110 120\nLiquid Limit (%)",
+            "",
+            ""
+          ],
+          [
+            "",
+            "TEST METHODS:\nBS EN ISO 17892 Part 1: 2014 + A1:2022 Water Content\nBS EN ISO 17892 Part 12: 2018 +A2:2022 Liquid and plastic limit\nThese results only apply to the items tested. The report shall not be reproduced except in full without authority of the laboratory",
+            "Checked and\nApproved\nInitials: J.P\nDate: 16/05/2025"
+          ],
+          [
+            "",
+            "Test Report by K4 SOILS LABORATORY Unit 8 Olds Close Olds Approach Watford Herts WD18 9RU\nTel: 01923 711 288 Email: James@k4soils.com",
+            ""
+          ],
+          [
+            "2519",
+            "Approved Signatories: K.Phaure (Tech.Mgr) J.Phaure (Lab.Mgr)",
+            "MSF-5 R2"
+          ]
+        ],
+        [
+          [
+            "",
+            "LIQUID LIMIT, PLASTIC LIMIT AND PLASTICITY\nINDEX",
+            "",
+            "",
+            "Job No.",
+            "37178"
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "Borehole/Pit No.",
+            "WS1"
+          ],
+          [
+            "Site Name",
+            "Anglo European School. Ingatestone, Essex, CM4 0DJ",
+            "",
+            "",
+            "Sample No.",
+            "-"
+          ],
+          [
+            "Project No.",
+            "J3185",
+            "Client",
+            "Jomas Associates",
+            "Depth Top",
+            "1.90 m"
+          ],
+          [
+            "Soil Description",
+            "Brown slightly gravelly slightly sandy silty CLAY (gravel is fmc and sub-\nangular to angular)",
+            "",
+            "",
+            "Depth Base",
+            "- m"
+          ]
+        ]
+      ]
+    },
+    {
+      "page": 99,
+      "keyword_matches": 2,
+      "table_count": 6,
+      "preview": "LIQUID LIMIT, PLASTIC LIMIT AND PLASTICITY Job No. 37178\nINDEX\nBorehole/Pit No. WS1\nSite Name Anglo European School. Ingatestone, Essex, CM4 0DJ Sample No. -\nProject No. J3185 Client Jomas Associates Depth Top 2.90 m\nDepth Base - m\nSample Type D\nBrown mottled bluish grey slightly gravelly silty CLAY (gravel is fine\nSoil Description Samples received 15/04/2025\nand sub-angular)\nSchedules received 24",
+      "tables_preview": [
+        [
+          [
+            "LIQUID LIMIT, PLASTIC LIMIT AND PLASTICITY Job No. 37178\nINDEX\nBorehole/Pit No. WS1\nSite Name Anglo European School. Ingatestone, Essex, CM4 0DJ Sample No. -\nProject No. J3185 Client Jomas Associates Depth Top 2.90 m\nDepth Base - m\nSample Type D\nBrown mottled bluish grey slightly gravelly silty CLAY (gravel is fine\nSoil Description Samples received 15/04/2025\nand sub-angular)\nSchedules received 24/04/2025\nProject Started 25/04/2025\nDate Tested 14/05/2025\n30\nWATER CONTENT 25.6 %\n28\n26\n% PASSING 425\u00b5m SIEVE 98 %\n24\nLIQUID LIMIT 67 %\n22 mm\n20 PLASTIC LIMIT 23 % noitartenep\n18\nPLASTICITY INDEX 44 %\n16\nenoC\n14\nTested after >425um\nPreparation Method\nremoved by hand\n12\n10 Remarks\n63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79\nMoisture Content %\nPLASTICITY INDEX\n70\nCL CI CH CV CE\n60\n50\n)%(\n40\nxednI\nyticitsalP\n30\n20\n10\nML MI MH MV ME\n0\n0 10 20 30 40 50 60 70 80 90 100 110 120\nLiquid Limit (%)",
+            "",
+            ""
+          ],
+          [
+            "",
+            "TEST METHODS:\nBS EN ISO 17892 Part 1: 2014 + A1:2022 Water Content\nBS EN ISO 17892 Part 12: 2018 +A2:2022 Liquid and plastic limit\nThese results only apply to the items tested. The report shall not be reproduced except in full without authority of the laboratory",
+            "Checked and\nApproved\nInitials: J.P\nDate: 16/05/2025"
+          ],
+          [
+            "",
+            "Test Report by K4 SOILS LABORATORY Unit 8 Olds Close Olds Approach Watford Herts WD18 9RU\nTel: 01923 711 288 Email: James@k4soils.com",
+            ""
+          ],
+          [
+            "2519",
+            "Approved Signatories: K.Phaure (Tech.Mgr) J.Phaure (Lab.Mgr)",
+            "MSF-5 R2"
+          ]
+        ],
+        [
+          [
+            "",
+            "LIQUID LIMIT, PLASTIC LIMIT AND PLASTICITY\nINDEX",
+            "",
+            "",
+            "Job No.",
+            "37178"
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "Borehole/Pit No.",
+            "WS1"
+          ],
+          [
+            "Site Name",
+            "Anglo European School. Ingatestone, Essex, CM4 0DJ",
+            "",
+            "",
+            "Sample No.",
+            "-"
+          ],
+          [
+            "Project No.",
+            "J3185",
+            "Client",
+            "Jomas Associates",
+            "Depth Top",
+            "2.90 m"
+          ],
+          [
+            "Soil Description",
+            "Brown mottled bluish grey slightly gravelly silty CLAY (gravel is fine\nand sub-angular)",
+            "",
+            "",
+            "Depth Base",
+            "- m"
+          ]
+        ]
+      ]
+    },
+    {
+      "page": 100,
+      "keyword_matches": 2,
+      "table_count": 6,
+      "preview": "LIQUID LIMIT, PLASTIC LIMIT AND PLASTICITY Job No. 37178\nINDEX\nBorehole/Pit No. WS2\nSite Name Anglo European School. Ingatestone, Essex, CM4 0DJ Sample No. -\nProject No. J3185 Client Jomas Associates Depth Top 3.90 m\nDepth Base - m\nSample Type D\nSoil Description Brown and occasional orangish brownn silty CLAY Samples received 15/04/2025\nSchedules received 24/04/2025\nProject Started 25/04/2025\nDate",
+      "tables_preview": [
+        [
+          [
+            "LIQUID LIMIT, PLASTIC LIMIT AND PLASTICITY Job No. 37178\nINDEX\nBorehole/Pit No. WS2\nSite Name Anglo European School. Ingatestone, Essex, CM4 0DJ Sample No. -\nProject No. J3185 Client Jomas Associates Depth Top 3.90 m\nDepth Base - m\nSample Type D\nSoil Description Brown and occasional orangish brownn silty CLAY Samples received 15/04/2025\nSchedules received 24/04/2025\nProject Started 25/04/2025\nDate Tested 14/05/2025\n30\nWATER CONTENT 29.4 %\n28\n26\n% PASSING 425\u00b5m SIEVE 100 %\n24\nLIQUID LIMIT 61 %\n22 mm\n20 PLASTIC LIMIT 22 % noitartenep\n18\nPLASTICITY INDEX 39 %\n16\nenoC\n14\nTested in natural\nPreparation Method\ncondition\n12\n10 Remarks\n57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73\nMoisture Content %\nPLASTICITY INDEX\n70\nCL CI CH CV CE\n60\n50\n)%(\n40\nxednI\nyticitsalP\n30\n20\n10\nML MI MH MV ME\n0\n0 10 20 30 40 50 60 70 80 90 100 110 120\nLiquid Limit (%)",
+            "",
+            ""
+          ],
+          [
+            "",
+            "TEST METHODS:\nBS EN ISO 17892 Part 1: 2014 + A1:2022 Water Content\nBS EN ISO 17892 Part 12: 2018 +A2:2022 Liquid and plastic limit\nThese results only apply to the items tested. The report shall not be reproduced except in full without authority of the laboratory",
+            "Checked and\nApproved\nInitials: J.P\nDate: 16/05/2025"
+          ],
+          [
+            "",
+            "Test Report by K4 SOILS LABORATORY Unit 8 Olds Close Olds Approach Watford Herts WD18 9RU\nTel: 01923 711 288 Email: James@k4soils.com",
+            ""
+          ],
+          [
+            "2519",
+            "Approved Signatories: K.Phaure (Tech.Mgr) J.Phaure (Lab.Mgr)",
+            "MSF-5 R2"
+          ]
+        ],
+        [
+          [
+            "",
+            "LIQUID LIMIT, PLASTIC LIMIT AND PLASTICITY\nINDEX",
+            "",
+            "",
+            "Job No.",
+            "37178"
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "Borehole/Pit No.",
+            "WS2"
+          ],
+          [
+            "Site Name",
+            "Anglo European School. Ingatestone, Essex, CM4 0DJ",
+            "",
+            "",
+            "Sample No.",
+            "-"
+          ],
+          [
+            "Project No.",
+            "J3185",
+            "Client",
+            "Jomas Associates",
+            "Depth Top",
+            "3.90 m"
+          ],
+          [
+            "Soil Description",
+            "Brown and occasional orangish brownn silty CLAY",
+            "",
+            "",
+            "Depth Base",
+            "- m"
+          ]
+        ]
+      ]
+    },
+    {
+      "page": 101,
+      "keyword_matches": 2,
+      "table_count": 6,
+      "preview": "LIQUID LIMIT, PLASTIC LIMIT AND PLASTICITY Job No. 37178\nINDEX\nBorehole/Pit No. WS3\nSite Name Anglo European School. Ingatestone, Essex, CM4 0DJ Sample No. -\nProject No. J3185 Client Jomas Associates Depth Top 1.40 m\nDepth Base - m\nSample Type D\nBrown slightly sandy very gravelly silty CLAY (gravel is fmc and sub-\nSoil Description Samples received 15/04/2025\nangular to angular)\nSchedules received ",
+      "tables_preview": [
+        [
+          [
+            "LIQUID LIMIT, PLASTIC LIMIT AND PLASTICITY Job No. 37178\nINDEX\nBorehole/Pit No. WS3\nSite Name Anglo European School. Ingatestone, Essex, CM4 0DJ Sample No. -\nProject No. J3185 Client Jomas Associates Depth Top 1.40 m\nDepth Base - m\nSample Type D\nBrown slightly sandy very gravelly silty CLAY (gravel is fmc and sub-\nSoil Description Samples received 15/04/2025\nangular to angular)\nSchedules received 24/04/2025\nProject Started 25/04/2025\nDate Tested 13/05/2025\n30\nWATER CONTENT 9.2 %\n28\n26\n% PASSING 425\u00b5m SIEVE 33 %\n24\nLIQUID LIMIT 40 %\n22 mm\n20 PLASTIC LIMIT 14 % noitartenep\n18\nPLASTICITY INDEX 26 %\n16\nenoC\n14\nTested after washing\nPreparation Method\nto remove >425um\n12\n10 Remarks\n37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53\nMoisture Content %\nPLASTICITY INDEX\n70\nCL CI CH CV CE\n60\n50\n)%(\n40\nxednI\nyticitsalP\n30\n20\n10\nML MI MH MV ME\n0\n0 10 20 30 40 50 60 70 80 90 100 110 120\nLiquid Limit (%)",
+            "",
+            ""
+          ],
+          [
+            "",
+            "TEST METHODS:\nBS EN ISO 17892 Part 1: 2014 + A1:2022 Water Content\nBS EN ISO 17892 Part 12: 2018 +A2:2022 Liquid and plastic limit\nThese results only apply to the items tested. The report shall not be reproduced except in full without authority of the laboratory",
+            "Checked and\nApproved\nInitials: J.P\nDate: 16/05/2025"
+          ],
+          [
+            "",
+            "Test Report by K4 SOILS LABORATORY Unit 8 Olds Close Olds Approach Watford Herts WD18 9RU\nTel: 01923 711 288 Email: James@k4soils.com",
+            ""
+          ],
+          [
+            "2519",
+            "Approved Signatories: K.Phaure (Tech.Mgr) J.Phaure (Lab.Mgr)",
+            "MSF-5 R2"
+          ]
+        ],
+        [
+          [
+            "",
+            "LIQUID LIMIT, PLASTIC LIMIT AND PLASTICITY\nINDEX",
+            "",
+            "",
+            "Job No.",
+            "37178"
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "Borehole/Pit No.",
+            "WS3"
+          ],
+          [
+            "Site Name",
+            "Anglo European School. Ingatestone, Essex, CM4 0DJ",
+            "",
+            "",
+            "Sample No.",
+            "-"
+          ],
+          [
+            "Project No.",
+            "J3185",
+            "Client",
+            "Jomas Associates",
+            "Depth Top",
+            "1.40 m"
+          ],
+          [
+            "Soil Description",
+            "Brown slightly sandy very gravelly silty CLAY (gravel is fmc and sub-\nangular to angular)",
+            "",
+            "",
+            "Depth Base",
+            "- m"
+          ]
+        ]
+      ]
+    },
+    {
+      "page": 102,
+      "keyword_matches": 2,
+      "table_count": 6,
+      "preview": "LIQUID LIMIT, PLASTIC LIMIT AND PLASTICITY Job No. 37178\nINDEX\nBorehole/Pit No. WS4\nSite Name Anglo European School. Ingatestone, Essex, CM4 0DJ Sample No. -\nProject No. J3185 Client Jomas Associates Depth Top 2.90 m\nDepth Base - m\nSample Type D\nSoil Description Brown silty CLAY Samples received 15/04/2025\nSchedules received 24/04/2025\nProject Started 25/04/2025\nDate Tested 13/05/2025\n30\nWATER CON",
+      "tables_preview": [
+        [
+          [
+            "LIQUID LIMIT, PLASTIC LIMIT AND PLASTICITY Job No. 37178\nINDEX\nBorehole/Pit No. WS4\nSite Name Anglo European School. Ingatestone, Essex, CM4 0DJ Sample No. -\nProject No. J3185 Client Jomas Associates Depth Top 2.90 m\nDepth Base - m\nSample Type D\nSoil Description Brown silty CLAY Samples received 15/04/2025\nSchedules received 24/04/2025\nProject Started 25/04/2025\nDate Tested 13/05/2025\n30\nWATER CONTENT 29.9 %\n28\n26\n% PASSING 425\u00b5m SIEVE 100 %\n24\nLIQUID LIMIT 61 %\n22 mm\n20 PLASTIC LIMIT 24 % noitartenep\n18\nPLASTICITY INDEX 37 %\n16\nenoC\n14\nTested in natural\nPreparation Method\ncondition\n12\n10 Remarks\n57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73\nMoisture Content %\nPLASTICITY INDEX\n70\nCL CI CH CV CE\n60\n50\n)%(\n40\nxednI\nyticitsalP\n30\n20\n10\nML MI MH MV ME\n0\n0 10 20 30 40 50 60 70 80 90 100 110 120\nLiquid Limit (%)",
+            "",
+            ""
+          ],
+          [
+            "",
+            "TEST METHODS:\nBS EN ISO 17892 Part 1: 2014 + A1:2022 Water Content\nBS EN ISO 17892 Part 12: 2018 +A2:2022 Liquid and plastic limit\nThese results only apply to the items tested. The report shall not be reproduced except in full without authority of the laboratory",
+            "Checked and\nApproved\nInitials: J.P\nDate: 16/05/2025"
+          ],
+          [
+            "",
+            "Test Report by K4 SOILS LABORATORY Unit 8 Olds Close Olds Approach Watford Herts WD18 9RU\nTel: 01923 711 288 Email: James@k4soils.com",
+            ""
+          ],
+          [
+            "2519",
+            "Approved Signatories: K.Phaure (Tech.Mgr) J.Phaure (Lab.Mgr)",
+            "MSF-5 R2"
+          ]
+        ],
+        [
+          [
+            "",
+            "LIQUID LIMIT, PLASTIC LIMIT AND PLASTICITY\nINDEX",
+            "",
+            "",
+            "Job No.",
+            "37178"
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "Borehole/Pit No.",
+            "WS4"
+          ],
+          [
+            "Site Name",
+            "Anglo European School. Ingatestone, Essex, CM4 0DJ",
+            "",
+            "",
+            "Sample No.",
+            "-"
+          ],
+          [
+            "Project No.",
+            "J3185",
+            "Client",
+            "Jomas Associates",
+            "Depth Top",
+            "2.90 m"
+          ],
+          [
+            "Soil Description",
+            "Brown silty CLAY",
+            "",
+            "",
+            "Depth Base",
+            "- m"
+          ]
+        ]
+      ]
+    },
+    {
+      "page": 103,
+      "keyword_matches": 2,
+      "table_count": 6,
+      "preview": "LIQUID LIMIT, PLASTIC LIMIT AND PLASTICITY Job No. 37178\nINDEX\nBorehole/Pit No. WS4\nSite Name Anglo European School. Ingatestone, Essex, CM4 0DJ Sample No. -\nProject No. J3185 Client Jomas Associates Depth Top 4.90 m\nDepth Base - m\nSample Type D\nSoil Description Dark greyish brown silty CLAY Samples received 15/04/2025\nSchedules received 24/04/2025\nProject Started 25/04/2025\nDate Tested 13/05/2025",
+      "tables_preview": [
+        [
+          [
+            "LIQUID LIMIT, PLASTIC LIMIT AND PLASTICITY Job No. 37178\nINDEX\nBorehole/Pit No. WS4\nSite Name Anglo European School. Ingatestone, Essex, CM4 0DJ Sample No. -\nProject No. J3185 Client Jomas Associates Depth Top 4.90 m\nDepth Base - m\nSample Type D\nSoil Description Dark greyish brown silty CLAY Samples received 15/04/2025\nSchedules received 24/04/2025\nProject Started 25/04/2025\nDate Tested 13/05/2025\n30\nWATER CONTENT 27.6 %\n28\n26\n% PASSING 425\u00b5m SIEVE 100 %\n24\nLIQUID LIMIT 66 %\n22 mm\n20 PLASTIC LIMIT 22 % noitartenep\n18\nPLASTICITY INDEX 44 %\n16\nenoC\n14\nTested in natural\nPreparation Method\ncondition\n12\n10 Remarks\n60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76\nMoisture Content %\nPLASTICITY INDEX\n70\nCL CI CH CV CE\n60\n50\n)%(\n40\nxednI\nyticitsalP\n30\n20\n10\nML MI MH MV ME\n0\n0 10 20 30 40 50 60 70 80 90 100 110 120\nLiquid Limit (%)",
+            "",
+            ""
+          ],
+          [
+            "",
+            "TEST METHODS:\nBS EN ISO 17892 Part 1: 2014 + A1:2022 Water Content\nBS EN ISO 17892 Part 12: 2018 +A2:2022 Liquid and plastic limit\nThese results only apply to the items tested. The report shall not be reproduced except in full without authority of the laboratory",
+            "Checked and\nApproved\nInitials: J.P\nDate: 16/05/2025"
+          ],
+          [
+            "",
+            "Test Report by K4 SOILS LABORATORY Unit 8 Olds Close Olds Approach Watford Herts WD18 9RU\nTel: 01923 711 288 Email: James@k4soils.com",
+            ""
+          ],
+          [
+            "2519",
+            "Approved Signatories: K.Phaure (Tech.Mgr) J.Phaure (Lab.Mgr)",
+            "MSF-5 R2"
+          ]
+        ],
+        [
+          [
+            "",
+            "LIQUID LIMIT, PLASTIC LIMIT AND PLASTICITY\nINDEX",
+            "",
+            "",
+            "Job No.",
+            "37178"
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "Borehole/Pit No.",
+            "WS4"
+          ],
+          [
+            "Site Name",
+            "Anglo European School. Ingatestone, Essex, CM4 0DJ",
+            "",
+            "",
+            "Sample No.",
+            "-"
+          ],
+          [
+            "Project No.",
+            "J3185",
+            "Client",
+            "Jomas Associates",
+            "Depth Top",
+            "4.90 m"
+          ],
+          [
+            "Soil Description",
+            "Dark greyish brown silty CLAY",
+            "",
+            "",
+            "Depth Base",
+            "- m"
+          ]
+        ]
+      ]
+    },
+    {
+      "page": 104,
+      "keyword_matches": 2,
+      "table_count": 6,
+      "preview": "LIQUID LIMIT, PLASTIC LIMIT AND PLASTICITY Job No. 37178\nINDEX\nBorehole/Pit No. WS5\nSite Name Anglo European School. Ingatestone, Essex, CM4 0DJ Sample No. -\nProject No. J3185 Client Jomas Associates Depth Top 1.80 m\nDepth Base - m\nSample Type D\nSoil Description Orange brown sandy silty CLAY Samples received 15/04/2025\nSchedules received 24/04/2025\nProject Started 25/04/2025\nDate Tested 14/05/2025",
+      "tables_preview": [
+        [
+          [
+            "LIQUID LIMIT, PLASTIC LIMIT AND PLASTICITY Job No. 37178\nINDEX\nBorehole/Pit No. WS5\nSite Name Anglo European School. Ingatestone, Essex, CM4 0DJ Sample No. -\nProject No. J3185 Client Jomas Associates Depth Top 1.80 m\nDepth Base - m\nSample Type D\nSoil Description Orange brown sandy silty CLAY Samples received 15/04/2025\nSchedules received 24/04/2025\nProject Started 25/04/2025\nDate Tested 14/05/2025\n30\nWATER CONTENT 23.2 %\n28\n26\n% PASSING 425\u00b5m SIEVE 100 %\n24\nLIQUID LIMIT 38 %\n22 mm\n20 PLASTIC LIMIT 19 % noitartenep\n18\nPLASTICITY INDEX 19 %\n16\nenoC\n14\nTested in natural\nPreparation Method\ncondition\n12\n10 Remarks\n33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49\nMoisture Content %\nPLASTICITY INDEX\n70\nCL CI CH CV CE\n60\n50\n)%(\n40\nxednI\nyticitsalP\n30\n20\n10\nML MI MH MV ME\n0\n0 10 20 30 40 50 60 70 80 90 100 110 120\nLiquid Limit (%)",
+            "",
+            ""
+          ],
+          [
+            "",
+            "TEST METHODS:\nBS EN ISO 17892 Part 1: 2014 + A1:2022 Water Content\nBS EN ISO 17892 Part 12: 2018 +A2:2022 Liquid and plastic limit\nThese results only apply to the items tested. The report shall not be reproduced except in full without authority of the laboratory",
+            "Checked and\nApproved\nInitials: J.P\nDate: 16/05/2025"
+          ],
+          [
+            "",
+            "Test Report by K4 SOILS LABORATORY Unit 8 Olds Close Olds Approach Watford Herts WD18 9RU\nTel: 01923 711 288 Email: James@k4soils.com",
+            ""
+          ],
+          [
+            "2519",
+            "Approved Signatories: K.Phaure (Tech.Mgr) J.Phaure (Lab.Mgr)",
+            "MSF-5 R2"
+          ]
+        ],
+        [
+          [
+            "",
+            "LIQUID LIMIT, PLASTIC LIMIT AND PLASTICITY\nINDEX",
+            "",
+            "",
+            "Job No.",
+            "37178"
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "Borehole/Pit No.",
+            "WS5"
+          ],
+          [
+            "Site Name",
+            "Anglo European School. Ingatestone, Essex, CM4 0DJ",
+            "",
+            "",
+            "Sample No.",
+            "-"
+          ],
+          [
+            "Project No.",
+            "J3185",
+            "Client",
+            "Jomas Associates",
+            "Depth Top",
+            "1.80 m"
+          ],
+          [
+            "Soil Description",
+            "Orange brown sandy silty CLAY",
+            "",
+            "",
+            "Depth Base",
+            "- m"
+          ]
+        ]
+      ]
+    },
+    {
+      "page": 105,
+      "keyword_matches": 2,
+      "table_count": 6,
+      "preview": "LIQUID LIMIT, PLASTIC LIMIT AND PLASTICITY Job No. 37178\nINDEX\nBorehole/Pit No. WS5\nSite Name Anglo European School. Ingatestone, Essex, CM4 0DJ Sample No. -\nProject No. J3185 Client Jomas Associates Depth Top 2.80 m\nDepth Base - m\nSample Type D\nSoil Description Brown sandy silty CLAY Samples received 15/04/2025\nSchedules received 24/04/2025\nProject Started 25/04/2025\nDate Tested 14/05/2025\n30\nWAT",
+      "tables_preview": [
+        [
+          [
+            "LIQUID LIMIT, PLASTIC LIMIT AND PLASTICITY Job No. 37178\nINDEX\nBorehole/Pit No. WS5\nSite Name Anglo European School. Ingatestone, Essex, CM4 0DJ Sample No. -\nProject No. J3185 Client Jomas Associates Depth Top 2.80 m\nDepth Base - m\nSample Type D\nSoil Description Brown sandy silty CLAY Samples received 15/04/2025\nSchedules received 24/04/2025\nProject Started 25/04/2025\nDate Tested 14/05/2025\n30\nWATER CONTENT 24.1 %\n28\n26\n% PASSING 425\u00b5m SIEVE 100 %\n24\nLIQUID LIMIT 37 %\n22 mm\n20 PLASTIC LIMIT 18 % noitartenep\n18\nPLASTICITY INDEX 19 %\n16\nenoC\n14\nTested in natural\nPreparation Method\ncondition\n12\n10 Remarks\n35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51\nMoisture Content %\nPLASTICITY INDEX\n70\nCL CI CH CV CE\n60\n50\n)%(\n40\nxednI\nyticitsalP\n30\n20\n10\nML MI MH MV ME\n0\n0 10 20 30 40 50 60 70 80 90 100 110 120\nLiquid Limit (%)",
+            "",
+            ""
+          ],
+          [
+            "",
+            "TEST METHODS:\nBS EN ISO 17892 Part 1: 2014 + A1:2022 Water Content\nBS EN ISO 17892 Part 12: 2018 +A2:2022 Liquid and plastic limit\nThese results only apply to the items tested. The report shall not be reproduced except in full without authority of the laboratory",
+            "Checked and\nApproved\nInitials: J.P\nDate: 16/05/2025"
+          ],
+          [
+            "",
+            "Test Report by K4 SOILS LABORATORY Unit 8 Olds Close Olds Approach Watford Herts WD18 9RU\nTel: 01923 711 288 Email: James@k4soils.com",
+            ""
+          ],
+          [
+            "2519",
+            "Approved Signatories: K.Phaure (Tech.Mgr) J.Phaure (Lab.Mgr)",
+            "MSF-5 R2"
+          ]
+        ],
+        [
+          [
+            "",
+            "LIQUID LIMIT, PLASTIC LIMIT AND PLASTICITY\nINDEX",
+            "",
+            "",
+            "Job No.",
+            "37178"
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "Borehole/Pit No.",
+            "WS5"
+          ],
+          [
+            "Site Name",
+            "Anglo European School. Ingatestone, Essex, CM4 0DJ",
+            "",
+            "",
+            "Sample No.",
+            "-"
+          ],
+          [
+            "Project No.",
+            "J3185",
+            "Client",
+            "Jomas Associates",
+            "Depth Top",
+            "2.80 m"
+          ],
+          [
+            "Soil Description",
+            "Brown sandy silty CLAY",
+            "",
+            "",
+            "Depth Base",
+            "- m"
+          ]
+        ]
+      ]
+    },
+    {
+      "page": 106,
+      "keyword_matches": 2,
+      "table_count": 7,
+      "preview": "3.5\nJob Ref 37178\nPARTICLE SIZE DISTRIBUTION\nBorehole/Pit No. WS2\nSite Name Anglo European School. Ingatestone, Essex, CM4 0DJ Sample No. -\nProject No. J3185 Client Jomas Associates Depth Top 1.90 m\nDepth Base - m\nSoil Description Brown and bluish grey slightly sandy silty CLAY Sample Type D\nSamples received 15/04/2025\nSchedules received 24/04/2025\nTest Method BS EN ISO 17892 Part 4: 2016 Project ",
+      "tables_preview": [
+        [
+          [
+            "Job Ref 37178\nPARTICLE SIZE DISTRIBUTION\nBorehole/Pit No. WS2\nSite Name Anglo European School. Ingatestone, Essex, CM4 0DJ Sample No. -\nProject No. J3185 Client Jomas Associates Depth Top 1.90 m\nDepth Base - m\nSoil Description Brown and bluish grey slightly sandy silty CLAY Sample Type D\nSamples received 15/04/2025\nSchedules received 24/04/2025\nTest Method BS EN ISO 17892 Part 4: 2016 Project started 25/04/2025\nThese results only apply to the items tested Date tested 16/05/2025\nSILT SAND GRAVEL\nCLAY COBBLES BOULDERS\nFine Medium Coarse Fine Medium Coarse Fine Medium Coarse\n100\n90\n80\n70\n%\n60 gnissaP\n50\negatnecreP\n40\n30\n20\n10\n0\n0.001 0.01 0.1 1 10 100 1000\nParticle Size mm\nSieving Sedimentation\nDry Mass of sample, g 0\nParticle Size Particle Size\n% Passing % Passing\nmm mm\n125 100 0.0630 100 Sample Proportions % dry mass\n90 100 0.0506 97 Very coarse 0\n75 100 0.0354 91 Gravel 0\n63 100 0.0248 85 Sand 1\n50 100 0.0180 81 Silt 44\n37.5 100 0.0126 75 Clay 55\n28 100 0.0088 71\n20 100 0.0062 65 Grading Analysis\n14 100 0.0043 61 D100 mm\n10 100 0.0031 58 D60 mm 0.0038\n6.3 100 0.0018 55 D30 mm\n5 100 D10 mm\n3.35 100 Uniformity Coefficient\n2 100 Curvature Coefficient\n1.18 100\n0.6 100 Particle density (assumed) Remarks\n0.425 100 2.70 Mg/m3 Preparation and testing in accordance with ISO17892 Part 4 unless noted below\n0.3 100\n0.212 100\n0.15 100\n0.063 100\nNOTE: The report shall not be reproduced except in full without approval of the laboratory",
+            "",
+            ""
+          ],
+          [
+            "K4 Soils Laboratory\nUnit 8, Olds Close, Watford, Herts, WD18 9RU\nEmail: james@k4soils.com\nTel: 01923 711288",
+            "",
+            "Checked and Approved\nInitials: J.P\nDate: 16/05/2025"
+          ],
+          [
+            "2519",
+            "Approved Signatories: K.Phaure (Tech.Mgr) J.Phaure (Lab.Mgr)",
+            "MSF-5-R3"
+          ]
+        ],
+        [
+          [
+            "",
+            "",
+            "",
+            "",
+            "Borehole/Pit No.",
+            "WS2"
+          ],
+          [
+            "Site Name",
+            "Anglo European School. Ingatestone, Essex, CM4 0DJ",
+            "",
+            "",
+            "Sample No.",
+            "-"
+          ],
+          [
+            "Project No.",
+            "J3185",
+            "Client",
+            "Jomas Associates",
+            "Depth Top",
+            "1.90 m"
+          ],
+          [
+            "Soil Description",
+            "Brown and bluish grey slightly sandy silty CLAY",
+            "",
+            "",
+            "Depth Base",
+            "- m"
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "Sample Type",
+            "D"
+          ]
+        ]
+      ]
+    },
+    {
+      "page": 107,
+      "keyword_matches": 2,
+      "table_count": 7,
+      "preview": "3.5\nJob Ref 37178\nPARTICLE SIZE DISTRIBUTION\nBorehole/Pit No. WS4\nSite Name Anglo European School. Ingatestone, Essex, CM4 0DJ Sample No. -\nProject No. J3185 Client Jomas Associates Depth Top 1.90 m\nDepth Base - m\nSoil Description Brown slightly silty clayey very sandy GRAVEL (gravel is fmc and sub- Sample Type D\nangular to sub-rounded)\nSamples received 15/04/2025\nSchedules received 24/04/2025\nTes",
+      "tables_preview": [
+        [
+          [
+            "Job Ref 37178\nPARTICLE SIZE DISTRIBUTION\nBorehole/Pit No. WS4\nSite Name Anglo European School. Ingatestone, Essex, CM4 0DJ Sample No. -\nProject No. J3185 Client Jomas Associates Depth Top 1.90 m\nDepth Base - m\nSoil Description Brown slightly silty clayey very sandy GRAVEL (gravel is fmc and sub- Sample Type D\nangular to sub-rounded)\nSamples received 15/04/2025\nSchedules received 24/04/2025\nTest Method BS EN ISO 17892 Part 4: 2016 Project started 25/04/2025\nThese results only apply to the items tested Date tested 16/05/2025\nSILT SAND GRAVEL\nCLAY COBBLES BOULDERS\nFine Medium Coarse Fine Medium Coarse Fine Medium Coarse\n100\n90\n80\n70\n%\n60 gnissaP\n50\negatnecreP\n40\n30\n20\n10\n0\n0.001 0.01 0.1 1 10 100 1000\nParticle Size mm\nSieving Sedimentation\nDry Mass of sample, g 776\nParticle Size Particle Size\n% Passing % Passing\nmm mm\n125 100 0.0588 10 Sample Proportions % dry mass\n90 100 0.0437 10 Very coarse 0\n75 100 0.0308 9 Gravel 46\n63 100 0.0217 9 Sand 45\n50 100 0.0158 8 Silt 3\n37.5 100 0.0111 8 Clay 6\n28 100 0.0078 7\n20 93 0.0055 7 Grading Analysis\n14 84 0.0039 7 D100 mm\n10 74 0.0028 7 D60 mm 3.81\n6.3 66 0.0016 6 D30 mm 0.471\n5 63 D10 mm 0.0675\n3.35 59 Uniformity Coefficient 57\n2 55 Curvature Coefficient 0.86\n1.18 51\n0.6 38 Particle density (assumed) Remarks\n0.425 26 2.70 Mg/m3 Preparation and testing in accordance with ISO17892 Part 4 unless noted below\n0.3 17\n0.212 14\n0.15 12\n0.063 10\nNOTE: The report shall not be reproduced except in full without approval of the laboratory",
+            "",
+            ""
+          ],
+          [
+            "K4 Soils Laboratory\nUnit 8, Olds Close, Watford, Herts, WD18 9RU\nEmail: james@k4soils.com\nTel: 01923 711288",
+            "",
+            "Checked and Approved\nInitials: J.P\nDate: 16/05/2025"
+          ],
+          [
+            "2519",
+            "Approved Signatories: K.Phaure (Tech.Mgr) J.Phaure (Lab.Mgr)",
+            "MSF-5-R3"
+          ]
+        ],
+        [
+          [
+            "",
+            "",
+            "",
+            "",
+            "Borehole/Pit No.",
+            "WS4"
+          ],
+          [
+            "Site Name",
+            "Anglo European School. Ingatestone, Essex, CM4 0DJ",
+            "",
+            "",
+            "Sample No.",
+            "-"
+          ],
+          [
+            "Project No.",
+            "J3185",
+            "Client",
+            "Jomas Associates",
+            "Depth Top",
+            "1.90 m"
+          ],
+          [
+            "Soil Description",
+            "Brown slightly silty clayey very sandy GRAVEL (gravel is fmc and sub-\nangular to sub-rounded)",
+            "",
+            "",
+            "Depth Base",
+            "- m"
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "Sample Type",
+            "D"
+          ]
+        ]
+      ]
+    },
+    {
+      "page": 109,
+      "keyword_matches": 1,
+      "table_count": 9,
+      "preview": "GAS AND GROUNDWATER MONITORING BOREHOLE RECORD SHEET\nSite: Anglo European School Operative(s): BKS Date: 29/04/2025 Time: 14:00 Round: 1 Page: 1\nMONITORING EQUIPMENT\nInstrument Type Instrument Make Serial No. Date Last Calibrated\nAnalox GA5000\nG501805 19/08/2024\nPID Phocheck tiger T-106448 21/09/2024\nDip Meter GeoTech\nMONITORING CONDITIONS\nWeather Conditions: Sunny Ground Conditions: Dry Temperatu",
+      "tables_preview": [
+        [
+          [
+            "",
+            "GAS AND GROUNDWATER MONITORING BOREHOLE RECORD SHEET",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Site: Anglo European School",
+            "Operative(s): BKS",
+            "",
+            "Date: 29/04/2025",
+            "Time: 14:00",
+            "",
+            "Round: 1",
+            "Page: 1"
+          ],
+          [
+            "MONITORING EQUIPMENT",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Instrument Type",
+            "Instrument Make",
+            "",
+            "",
+            "Serial No.",
+            "",
+            "Date Last Calibrated",
+            ""
+          ],
+          [
+            "Analox",
+            "GA5000",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ],
+        [
+          [
+            "MONITORING RESULTS",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Monitoring\nPoint\nLocation",
+            "Flow",
+            "",
+            "Atmospheric\nPressure\n(mbar)",
+            "CH4 %",
+            "CH4 %\nLEL",
+            "CO2 %",
+            "O2 %",
+            "VOC (ppm)",
+            "",
+            "CO\n(ppm)",
+            "H2S\n(ppm)",
+            "Depth to\nproduct\n(mbgl)",
+            "Depth to\nwater\n(mbgl)",
+            "Depth to\nbase\nof well\n(mbgl)"
+          ],
+          [
+            "",
+            "Peak",
+            "Steady",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "Peak",
+            "Steady",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "WS1",
+            "+0.5",
+            "+0.4",
+            "1020",
+            "0.0",
+            "-",
+            "0.1",
+            "19.3",
+            "0.4",
+            "0.3",
+            "0",
+            "0",
+            "-",
+            "0.95",
+            "4.06"
+          ],
+          [
+            "WS4",
+            "+0.2",
+            "+0.2",
+            "1020",
+            "0.0",
+            "-",
+            "0.4",
+            "18.4",
+            "0.7",
+            "0.6",
+            "0",
+            "1",
+            "-",
+            "1.54",
+            "4.53"
+          ]
+        ]
+      ]
+    },
+    {
+      "page": 110,
+      "keyword_matches": 1,
+      "table_count": 9,
+      "preview": "GAS AND GROUNDWATER MONITORING BOREHOLE RECORD SHEET\nSite: Anglo European school Operative(s): MOS Date: 06/05/2025 Time: 14:30 Round: 2 Page: 1\nMONITORING EQUIPMENT\nInstrument Type Instrument Make Serial No. Date Last Calibrated\nAnalox GA5000\nG501805 19/08/2024\nPID Phocheck tiger T-106448 21/09/2024\nDip Meter GeoTech\nMONITORING CONDITIONS\nWeather Conditions: Overcast Ground Conditions: Dry Temper",
+      "tables_preview": [
+        [
+          [
+            "",
+            "GAS AND GROUNDWATER MONITORING BOREHOLE RECORD SHEET",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Site: Anglo European school",
+            "Operative(s): MOS",
+            "",
+            "Date: 06/05/2025",
+            "Time: 14:30",
+            "",
+            "Round: 2",
+            "Page: 1"
+          ],
+          [
+            "MONITORING EQUIPMENT",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Instrument Type",
+            "Instrument Make",
+            "",
+            "",
+            "Serial No.",
+            "",
+            "Date Last Calibrated",
+            ""
+          ],
+          [
+            "Analox",
+            "GA5000",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ],
+        [
+          [
+            "MONITORING RESULTS",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Monitoring\nPoint\nLocation",
+            "Flow",
+            "",
+            "Atmospheric\nPressure\n(mbar)",
+            "CH4 %",
+            "CH4 %\nLEL",
+            "CO2 %",
+            "O2 %",
+            "VOC (ppm)",
+            "",
+            "CO\n(ppm)",
+            "H2S\n(ppm)",
+            "Depth to\nproduct\n(mbgl)",
+            "Depth to\nwater\n(mbgl)",
+            "Depth to\nbase\nof well\n(mbgl)"
+          ],
+          [
+            "",
+            "Peak",
+            "Steady",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "Peak",
+            "Steady",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "WS1",
+            "+0.3",
+            "+0.2",
+            "1016",
+            "0.0",
+            "-",
+            "0.1",
+            "20.9",
+            "0.1",
+            "0.0",
+            "0",
+            "0",
+            "-",
+            "0.97",
+            "4.07"
+          ],
+          [
+            "WS4",
+            "+0.1",
+            "+0.1",
+            "1016",
+            "0",
+            "-",
+            "0.5",
+            "20.6",
+            "0.2",
+            "0.2",
+            "0",
+            "0",
+            "-",
+            "1.59",
+            "4.54"
+          ]
+        ]
+      ]
+    },
+    {
+      "page": 111,
+      "keyword_matches": 1,
+      "table_count": 9,
+      "preview": "GAS AND GROUNDWATER MONITORING BOREHOLE RECORD SHEET\nSite: Anglo European School Operative(s): BKS Date: 13/05/2025 Time: 14:45 Round: 3 Page: 1\nMONITORING EQUIPMENT\nInstrument Type Instrument Make Serial No. Date Last Calibrated\nAnalox GA5000\nG501805 24/03/2025\nPID Phocheck tiger T-106448 21/09/2024\nDip Meter GeoTech\nMONITORING CONDITIONS\nWeather Conditions: Sunny Ground Conditions: Dry Temperatu",
+      "tables_preview": [
+        [
+          [
+            "",
+            "GAS AND GROUNDWATER MONITORING BOREHOLE RECORD SHEET",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Site: Anglo European School",
+            "Operative(s): BKS",
+            "",
+            "Date: 13/05/2025",
+            "Time: 14:45",
+            "",
+            "Round: 3",
+            "Page: 1"
+          ],
+          [
+            "MONITORING EQUIPMENT",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Instrument Type",
+            "Instrument Make",
+            "",
+            "",
+            "Serial No.",
+            "",
+            "Date Last Calibrated",
+            ""
+          ],
+          [
+            "Analox",
+            "GA5000",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ],
+        [
+          [
+            "MONITORING RESULTS",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Monitoring\nPoint\nLocation",
+            "Flow",
+            "",
+            "Atmospheric\nPressure\n(mbar)",
+            "CH4 %",
+            "CH4 %\nLEL",
+            "CO2 %",
+            "O2 %",
+            "VOC (ppm)",
+            "",
+            "CO\n(ppm)",
+            "H2S\n(ppm)",
+            "Depth to\nproduct\n(mbgl)",
+            "Depth to\nwater\n(mbgl)",
+            "Depth to\nbase\nof well\n(mbgl)"
+          ],
+          [
+            "",
+            "Peak",
+            "Steady",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "Peak",
+            "Steady",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "WS1",
+            "+0.4",
+            "+0.4",
+            "1012",
+            "0.0",
+            "-",
+            "0.1",
+            "20.3",
+            "0.4",
+            "0.3",
+            "0",
+            "0",
+            "-",
+            "1.03",
+            "4.05"
+          ],
+          [
+            "WS4",
+            "+0.4",
+            "+0.4",
+            "1013",
+            "0.0",
+            "-",
+            "0.8",
+            "18.7",
+            "0.6",
+            "0.5",
+            "0",
+            "1",
+            "-",
+            "1.69",
+            "4.54"
+          ]
+        ]
+      ]
+    },
+    {
+      "page": 112,
+      "keyword_matches": 1,
+      "table_count": 9,
+      "preview": "GAS AND GROUNDWATER MONITORING BOREHOLE RECORD SHEET\nSite: Anglo European School Operative(s): MOS Date: 20/05/2025 Time: 14:25 Round: 4 Page: 1\nMONITORING EQUIPMENT\nInstrument Type Instrument Make Serial No. Date Last Calibrated\nAnalox GA5000\nG501805 24/03/2025\nPID Phocheck tiger T-106448 21/09/2024\nDip Meter GeoTech\nMONITORING CONDITIONS\nWeather Conditions: Sunny Ground Conditions: Dry Temperatu",
+      "tables_preview": [
+        [
+          [
+            "",
+            "GAS AND GROUNDWATER MONITORING BOREHOLE RECORD SHEET",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Site: Anglo European School",
+            "Operative(s): MOS",
+            "",
+            "Date: 20/05/2025",
+            "Time: 14:25",
+            "",
+            "Round: 4",
+            "Page: 1"
+          ],
+          [
+            "MONITORING EQUIPMENT",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Instrument Type",
+            "Instrument Make",
+            "",
+            "",
+            "Serial No.",
+            "",
+            "Date Last Calibrated",
+            ""
+          ],
+          [
+            "Analox",
+            "GA5000",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ],
+        [
+          [
+            "MONITORING RESULTS",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Monitoring\nPoint\nLocation",
+            "Flow",
+            "",
+            "Atmospheric\nPressure\n(mbar)",
+            "CH4 %",
+            "CH4 %\nLEL",
+            "CO2 %",
+            "O2 %",
+            "VOC (ppm)",
+            "",
+            "CO\n(ppm)",
+            "H2S\n(ppm)",
+            "Depth to\nproduct\n(mbgl)",
+            "Depth to\nwater\n(mbgl)",
+            "Depth to\nbase\nof well\n(mbgl)"
+          ],
+          [
+            "",
+            "Peak",
+            "Steady",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "Peak",
+            "Steady",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "WS1",
+            "0",
+            "0",
+            "1012",
+            "0",
+            "-",
+            "0.1",
+            "19.8",
+            "0.3",
+            "0.1",
+            "0",
+            "1",
+            "-",
+            "1.00",
+            "4.04"
+          ],
+          [
+            "WS4",
+            "-0.1",
+            "0",
+            "1012",
+            "0",
+            "-",
+            "1.1",
+            "19.1",
+            "0",
+            "0",
+            "0",
+            "0",
+            "-",
+            "1.69",
+            "4.52"
+          ]
+        ]
+      ]
+    }
+  ]
+}

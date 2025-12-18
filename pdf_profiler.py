@@ -65,14 +65,25 @@ def profile_pdf(pdf_path):
     
     return profile
 
-def batch_profile(directory):
+def batch_profile(path_like):
     """
-    Profile all PDFs in a directory.
+    Profile either a single PDF or every PDF within a directory.
     """
     results = []
-    pdf_files = list(Path(directory).glob('*.pdf'))
+    target = Path(path_like)
     
-    print(f"Found {len(pdf_files)} PDF files")
+    if target.is_file() and target.suffix.lower() == '.pdf':
+        pdf_files = [target]
+    elif target.is_dir():
+        pdf_files = sorted(target.glob('*.pdf'))
+    else:
+        raise FileNotFoundError(f"No PDF found at '{path_like}'")
+    
+    if not pdf_files:
+        print(f"No PDF files found in {target.resolve()}")
+        return results
+    
+    print(f"Found {len(pdf_files)} PDF file(s)")
     
     for pdf_path in pdf_files:
         print(f"Profiling: {pdf_path.name}...")
@@ -85,7 +96,7 @@ if __name__ == "__main__":
     import sys
     
     if len(sys.argv) < 2:
-        print("Usage: python pdf_profiler.py <directory_path>")
+        print("Usage: python pdf_profiler.py <path_to_pdf_or_directory>")
         sys.exit(1)
     
     directory = sys.argv[1]
@@ -97,8 +108,15 @@ if __name__ == "__main__":
     
     # Print summary
     print("\n=== SUMMARY ===")
-    print(f"Total PDFs: {len(results)}")
-    print(f"Average size: {sum(r['size_mb'] for r in results) / len(results):.2f} MB")
-    print(f"Average pages: {sum(r['pages'] for r in results) / len(results):.0f}")
+    total = len(results)
+    print(f"Total PDFs: {total}")
+    
+    if total:
+        print(f"Average size: {sum(r['size_mb'] for r in results) / total:.2f} MB")
+        print(f"Average pages: {sum(r['pages'] for r in results) / total:.0f}")
+    else:
+        print("Average size: N/A")
+        print("Average pages: N/A")
+    
     print(f"PDFs with text: {sum(1 for r in results if r['has_text'])}")
     print(f"PDFs with tables: {sum(1 for r in results if r['has_tables'])}")
